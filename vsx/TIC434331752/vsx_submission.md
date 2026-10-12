@@ -19,7 +19,7 @@ submission is reviewed.
 | Passband | V |
 | Spectral type | (left blank: no spectrum) |
 
-Type, period, epoch, range and passband are as submitted. The remarks and references
+Type, period, epoch, range and passband are as submitted. The period error is the ASAS-SN fit's; the report quotes a more cautious ±0.0003 d, the spread between the ASAS-SN, ATLAS and TESS periods. The remarks and references
 below are as prepared for the form.
 
 **Remarks:** Second period 2.28 d in TESS (2021, 2023). TESS amplitude varied from about
