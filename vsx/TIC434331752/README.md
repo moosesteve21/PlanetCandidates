@@ -47,7 +47,7 @@ R ≈ 1.48 R☉ (TIC); parallax 1.67 mas (about 600 pc); Gaia RUWE 1.67.
 | File | Content |
 |---|---|
 | [vsx_submission.md](vsx_submission.md) | The VSX form data |
-| report.pdf | Full report: discovery, TESS analysis, systematics tests, other surveys, catalogue status |
+| [report.pdf](report.pdf) | Full report: discovery, TESS analysis, systematics tests, other surveys, catalogue status |
 | [tic434331752_asassn_V_phase.png](tic434331752_asassn_V_phase.png) | ASAS-SN V phase plot (submitted to VSX) |
 | [tic434331752_tess_phase.png](tic434331752_tess_phase.png) | TESS phase plot (submitted to VSX) |
 | [tic434331752_asassn_V_lightcurve.txt](tic434331752_asassn_V_lightcurve.txt) | ASAS-SN V photometry (submitted to VSX) |

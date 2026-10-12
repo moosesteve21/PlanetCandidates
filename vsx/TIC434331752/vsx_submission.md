@@ -35,4 +35,4 @@ below are as prepared for the form.
 | [tic434331752_asassn_V_phase.png](tic434331752_asassn_V_phase.png) | ASAS-SN V light curve folded at the submitted period and epoch |
 | [tic434331752_tess_phase.png](tic434331752_tess_phase.png) | TESS (QLP) light curve folded at the same ephemeris |
 | [tic434331752_asassn_V_lightcurve.txt](tic434331752_asassn_V_lightcurve.txt) | ASAS-SN V photometry: HJD, V, error (outliers removed) |
-| report.pdf | The full analysis report |
+| [report.pdf](report.pdf) | The full analysis report |
