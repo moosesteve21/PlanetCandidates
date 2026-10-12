@@ -12,6 +12,7 @@ Only material that has been submitted, or is drafted for submission, is kept her
 
 | Candidate | Found | Summary | Status |
 |---|---|---|---|
+| [TIC 240488148](TIC240488148/) (TYC 3191-503-1) | 2026-10-12, batch b012 | P = 1.513 d, ~390 ppm, ~1.45 R⊕, K dwarf; TARS 9.2σ; on target by pixel map; FPP 0.11 | Talk post drafted |
 | [TIC 302453503](TIC302453503/) (L 642-3) | 2026-10-12, batch b007 | P = 3.629 d, ~440 ppm, ~1.2 R⊕, M1.5 dwarf; TRICERATOPS FPP 0.04–0.06 | Posted to Planet Hunters TESS |
 | [TIC 143400975](TIC143400975/) (StKM 1-845) | 2026-10-12, batch b009 | P = 4.879 d, ~640 ppm, near-grazing, ~2 R⊕, K7 dwarf; FPP 0.39 | Talk post drafted |
 
