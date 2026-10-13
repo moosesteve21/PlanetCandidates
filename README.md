@@ -8,6 +8,9 @@ has been submitted where.
 
 Only material that has been submitted, or is drafted for submission, is kept here.
 
+[discovery_log.md](discovery_log.md) holds dated fingerprints (SHA-256 hashes) of candidates
+found but not yet made public, so the date each was found can be checked later.
+
 ## Transit candidates
 
 | Candidate | Found | Summary | Status |
