@@ -57,10 +57,11 @@ your opinions.
 - No high-resolution imaging or spectroscopy, so close companions aren't excluded; those
   scenarios keep the FPP above the validation threshold.
 
-**About the pipeline:** it's home-made and unpublished (written with AI assistance). It
-recovers the 10 known planets I use as controls (pi Men c, LHS 3844 b, TOI-700 b–e,
+**About the pipeline:** it's home-made (written with AI assistance), and the code is
+public at https://github.com/moosesteve21/PlanetFinder. It recovers the 10 known planets I use as controls (pi Men c, LHS 3844 b, TOI-700 b–e,
 TOI-270 b–d, WASP-18 b). Injection-recovery tests give 50% completeness at an expected
-SNR of 12.4 and 90% at 18.5.
+SNR of 12.4 and 90% at 18.5. The plots and discovery record for this candidate are at
+https://github.com/moosesteve21/PlanetCandidates/tree/main/TIC147226218.
 
 Figure 1: the transit folded separately in each sector (15-minute bins; red: the fitted
 depth and duration):

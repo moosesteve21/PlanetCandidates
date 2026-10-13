@@ -56,10 +56,12 @@ which I think means a near-grazing orbit; I'd value your view on that.
 - Individual transits are weak; the detection rests on the stack. The pixel-level
   check can't localise a dip this shallow sector by sector.
 
-**About the pipeline:** it's home-made and unpublished (written with AI
-assistance). It recovers the 10 known planets I use as controls (pi Men c,
+**About the pipeline:** it's home-made (written with AI assistance), and the code
+is public at https://github.com/moosesteve21/PlanetFinder. It recovers the 10 known planets I use as controls (pi Men c,
 LHS 3844 b, TOI-700 b–e, TOI-270 b–d, WASP-18 b). Injection-recovery tests on
-bright stars give 50% completeness at an expected SNR of 12.4 and 90% at 18.5.
+bright stars give 50% completeness at an expected SNR of 12.4 and 90% at 18.5. The
+plots and discovery record are at
+https://github.com/moosesteve21/PlanetCandidates/tree/main/TIC143400975.
 
 Folded light curve, with odd and even transits compared:
 

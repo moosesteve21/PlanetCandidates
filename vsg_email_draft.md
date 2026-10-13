@@ -68,8 +68,8 @@ which high-resolution imaging would address. The individual transits are weak, s
 detections rest on the stacked data.
 
 Plots, per-sector folds, pixel maps and discovery records for each candidate are at
-https://github.com/moosesteve21/PlanetCandidates. The search code and the full vetting
-notes are available on request.
+https://github.com/moosesteve21/PlanetCandidates. The search code is public at
+https://github.com/moosesteve21/PlanetFinder, and the full vetting notes are available on request.
 
 Would the group be willing to look at them and, if they hold up, take them forward? I'd
 also be glad to send future candidates, if that would be useful.
