@@ -8,7 +8,7 @@ independent BLS search of TESS light curves.
 | | |
 |---|---|
 | Found | 2026-10-13, in search batch b018 (300 stars, run 14:34–15:52 UK time) |
-| Pipeline version | commit `bf01637` of the search code (unpublished) |
+| Pipeline version | commit `e859bb1` of the search code (unpublished; recorded at run time as `21b6e08`, the same code before an author-email rewrite) |
 | Reviewed | 2026-10-13: per-transit fits, other pipelines (TARS), transit fit, TRICERATOPS, per-pixel depth map |
 
 ## Star
