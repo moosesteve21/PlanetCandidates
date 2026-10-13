@@ -1,6 +1,9 @@
-# Planet Hunters TESS Talk post (draft)
+# Planet Hunters TESS Talk post (as published)
 
-For the "Planets!" board. Not yet posted. The image links work once the repo is pushed.
+Posted 2026-10-13 15:51 UTC by moosehunter21 on the "Planets!" board:
+https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/2110/4154549
+
+The text below is the post as prepared for publishing.
 
 ---
 

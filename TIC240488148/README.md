@@ -45,6 +45,7 @@ contamination ratio 0.09; Gaia RUWE 1.04.
 
 | Date | Event |
 |---|---|
+| 2026-10-13 | Posted to Planet Hunters TESS Talk: https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/2110/4154549 |
 | 2026-10-12 | Found in batch b012; reviewed; Talk post drafted |
 
 ## Files
@@ -52,4 +53,4 @@ contamination ratio 0.09; Gaia RUWE 1.04.
 - `tic240488148_sector_folds.png`: the transit folded separately in each sector
 - `tic240488148_pixel_depth_map.png`: in-transit flux deficit per pixel, six sectors
 - `tic240488148_folded_odd_even.png`: the search's plot (periodogram, fold, odd/even)
-- `pht_talk_post_draft.md`: the Talk post draft
+- `pht_talk_post.md`: the Talk post as published

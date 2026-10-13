@@ -8,8 +8,9 @@ For the "Planets!" board. Not yet posted. The image links work once the repo is 
 
 @researchers #possible-transits
 
-Hi all. Another candidate from my own search of TESS light curves (my first post, on
-L 642-3, is here: https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/2110/4153490).
+Hi all. Another candidate from my own search of TESS light curves. My earlier posts are
+on L 642-3 (https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/2110/4153490)
+and TIC 240488148 (https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/2110/4154549).
 It isn't a TOI, a CTOI or a SPOC TCE (the star has no 2-min data). I'd be grateful for
 your opinions.
 
