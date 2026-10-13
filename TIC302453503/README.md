@@ -40,10 +40,10 @@ TIC 302453503 = L 642-3 = Gaia DR3 6815237513835256064; RA 322.56736, Dec −24.
 |---|---|
 | 2026-10-12 | Found in batch b007; reviewed |
 | 2026-10-12 | Posted to Planet Hunters TESS Talk: https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/2110/4153490 |
-| — | Email to the Visual Survey Group drafted, not sent |
+| — | Email to the Visual Survey Group (all three candidates, `../vsg_email_draft.md`) drafted, not sent |
 
 ## Files
 
 - `tic302453503_folded_odd_even.png`: folded light curve and odd/even comparison (from the search)
 - `tic302453503_individual_transits.png`: each transit with the fitted model
-- The Talk post and the email draft
+- The Talk post (the Visual Survey Group email, covering all three candidates, is in `vsg_email_draft.md` at the top of the repo)
