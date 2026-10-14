@@ -61,7 +61,7 @@ SPOC TCE.
 - Density consistent (1.7σ)
 - On target by a per-pixel depth map: neighbours worse by Δχ² ≥ 27.8
 - FPP 0.16, NFPP 0.077
-- [Talk thread link]
+- Talk thread: https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/2110/4155277
 
 For all three, the remaining false-positive scenarios are mostly unresolved companions,
 which high-resolution imaging would address. The individual transits are weak, so the
