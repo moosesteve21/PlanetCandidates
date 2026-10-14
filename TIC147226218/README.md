@@ -35,8 +35,13 @@ contamination ratio 0.095; Gaia RUWE 1.12.
 - **Consistency:** odd and even transits agree; no secondary eclipse; the period is
   unambiguous (SDE 34); the model-shift test passes.
 - **Density:** 1.6 g/cm³ from the transit against 3.7 for the catalogued star (1.7σ).
-- **On target:** a per-pixel depth map over four TESScut sectors puts the dip on the
-  target; the nearest neighbours are worse by Δχ² 27.8–35.2.
+- **Position (corrected 2026-10-14):** a per-pixel depth map over four TESScut sectors
+  favours the target: it fits best in three sectors (S103 can't tell). The nearest
+  neighbours are worse by Δχ² ≈ 8 (TIC 147219144, T 14.8, 16″) and ≈ 12 (TIC 147226219,
+  T 14.4, 31″). The first version (in the Talk post) gave 27.8 and 35.2: it used smaller
+  per-pixel errors, before each pixel's error got a floor from its out-of-transit
+  scatter. The pixels alone don't rule out the 16″ neighbour, which would need a ~3%
+  eclipse.
 - **TRICERATOPS:** FPP 0.16, NFPP 0.077; mostly unresolved-companion scenarios.
 - **New:** not a TOI, CTOI or SPOC TCE.
 
@@ -44,12 +49,14 @@ contamination ratio 0.095; Gaia RUWE 1.12.
 
 | Date | Event |
 |---|---|
+| 2026-10-14 | Pixel-map margins corrected (more conservative errors): Δχ² ≈ 8–12, not 27.8–35.2; follow-up in the Talk thread |
 | 2026-10-14 | Posted to Planet Hunters TESS Talk: https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/2110/4155277 |
 | 2026-10-13 | Found in batch b018; reviewed; Talk post drafted |
 
 ## Files
 
 - `tic147226218_sector_folds.png`: the transit folded separately in each sector
-- `tic147226218_pixel_depth_map.png`: in-transit flux deficit per pixel, four sectors
+- `tic147226218_pixel_depth_map.png`: in-transit flux deficit per pixel, four sectors (as posted)
+- `tic147226218_pixel_depth_map_2026-10-14.png`: the same, rerun with the corrected errors
 - `tic147226218_folded_odd_even.png`: the search's plot (periodogram, fold, odd/even)
 - `pht_talk_post.md`: the Talk post as published
