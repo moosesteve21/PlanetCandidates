@@ -18,3 +18,4 @@ candidate was found by that date. This file's git history on GitHub dates each l
 | 2026-10-13 | 2026-10-13 (b021) | weak transit candidate (watchlist) | `1c740555fa6f5a35e1a20d0409d51a3b8e9203905d5b60ea0fb947eed6176509` | not yet revealed |
 | 2026-10-13 | 2026-10-13 (b022) | three transit signals on one K dwarf | `5044b3d3d74691c5d4b9aba418b013285e24e4e4229f0841b57c638b5f80cf95` | not yet revealed |
 | 2026-10-14 | 2026-10-12 (b009) | a near-grazing transit signal on a K7 dwarf | `4161a65f62cc32e832fcc1ca19baae5f83ee97bc4ac22bd5975ee345c472a362` | not yet revealed |
+| 2026-10-14 | 2026-10-14 (b024) | a transit signal on a K dwarf | `d911a498632b4ffe91af129c149525323053c4ed56a9a84532985bb101ed6eef` | not yet revealed |
