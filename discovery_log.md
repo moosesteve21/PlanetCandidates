@@ -24,3 +24,4 @@ candidate was found by that date. This file's git history on GitHub dates each l
 | 2026-10-15 | 2026-10-14 (b027) | a transit signal on a G/K star | `e90b053b8c56f9435e08117c9c041fe54efa2a54b0e414660ce78693ad3ec700` | not yet revealed |
 | 2026-10-15 | 2026-10-14 (b027) | a transit signal on a K dwarf | `a95174ac016b18b89afdbd0c92367baf1910e348a2230dd1fcd31102c27aa04d` | not yet revealed |
 | 2026-10-15 | 2026-10-14 (b027) | a shallow transit signal on a K dwarf | `e0a711d993349d5b53b3518ec74af79c7463cd3e68fc5efdeb13f82eb0211c39` | not yet revealed |
+| 2026-10-15 | 2026-10-15 (b029) | a transit signal on an active K dwarf | `d3f564cc641c220f50cd6858685704931a107199c089c8af6cd0860751f79f38` | not yet revealed |
