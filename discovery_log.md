@@ -25,3 +25,8 @@ candidate was found by that date. This file's git history on GitHub dates each l
 | 2026-10-15 | 2026-10-14 (b027) | a transit signal on a K dwarf | `a95174ac016b18b89afdbd0c92367baf1910e348a2230dd1fcd31102c27aa04d` | not yet revealed |
 | 2026-10-15 | 2026-10-14 (b027) | a shallow transit signal on a K dwarf | `e0a711d993349d5b53b3518ec74af79c7463cd3e68fc5efdeb13f82eb0211c39` | not yet revealed |
 | 2026-10-15 | 2026-10-15 (b029) | a transit signal on an active K dwarf | `d3f564cc641c220f50cd6858685704931a107199c089c8af6cd0860751f79f38` | not yet revealed |
+| 2026-10-16 | 2026-10-15 (b036) | a transit signal on a G/K dwarf | `f7505302f545dfa4b2dd1ac6e0809c1eb843472ab5eb494abee8d009317b0132` | not yet revealed |
+| 2026-10-16 | 2026-10-15 (b036) | an ultra-short-period transit signal on a K dwarf | `9434f28e5e476a167e0dc279eaa08919a19569b6847eb8d897b853184ad7930c` | not yet revealed |
+| 2026-10-16 | 2026-10-15 (b038) | a transit signal on an active K dwarf | `4dd23d7211d08e9c6aac436017fd753568db6c735b57f537daea2a0702c4431d` | not yet revealed |
+| 2026-10-16 | 2026-10-15 (b038) | a weak transit signal on a K dwarf | `b70d8f509200784ac4c81a9635b178f50ebab7f61e10fb981e39644e407ddaa5` | not yet revealed |
+| 2026-10-16 | 2026-10-15 (b039) | an ultra-short-period transit signal on a K dwarf | `264fab8b76b08d2fc8d441da4739ba1ba4f67d544dd940649b6cd249e5508e85` | not yet revealed |
