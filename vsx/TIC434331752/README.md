@@ -1,7 +1,7 @@
 # TIC 434331752 (ATO J093.6734+17.5725)
 
-A spotted variable star with a 1.385-day period. TESS, ASAS-SN and ATLAS each recover the
-period independently. It was submitted to VSX as a new variable; the full analysis is in
+A spotted variable star with a 1.385-day period. TESS and ASAS-SN each recover the period
+independently; ATLAS's catalogued periods are consistent with it (twice the period, and its daily alias). It was submitted to VSX as a new variable; the full analysis is in
 [report.pdf](report.pdf).
 
 ## Discovery
