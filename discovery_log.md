@@ -1,6 +1,6 @@
 # Discovery log
 
-Dated fingerprints of candidates found by PlanetFinder, an independent search of TESS
+Dated fingerprints of candidates found by KESTREL (formerly PlanetFinder), an independent search of TESS
 light curves, logged before they are made public. Each line is the SHA-256 hash of a
 plain-text discovery record (star, signals, batch, date) kept privately. Revealing a
 record later lets anyone check that its hash matches the line below, which shows the
