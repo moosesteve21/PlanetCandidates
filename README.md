@@ -19,6 +19,14 @@ found but not yet made public, so the date each was found can be checked later.
 | [TIC 240488148](TIC240488148/) (TYC 3191-503-1) | 2026-10-12, batch b012 | P = 1.513 d, ~390 ppm, ~1.45 R⊕, K dwarf; TARS 9.2σ; on target by pixel map; FPP 0.11 | [Posted to Planet Hunters TESS](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/2110/4154549) |
 | [TIC 302453503](TIC302453503/) (L 642-3) | 2026-10-12, batch b007 | P = 3.629 d, ~440 ppm, ~1.2 R⊕, M1.5 dwarf; TRICERATOPS FPP 0.04–0.06 | Posted to Planet Hunters TESS |
 
+## Checks of community reports
+
+Independent checks of candidates reported by others, with the figures linked from the replies.
+
+| Star | Report | Result |
+|---|---|---|
+| [TIC 259477022](checks/TIC259477022/) | [PHT Talk, 2026-10-17](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/2110/4157680): two ~2300 ppm, ~8 h events (S3, S5), P 60.8 or 30.4 d | Dips in SPOC 2-min PDCSAP only; SAP and TESS-SPOC FFI flat: most likely PDC artefacts (checked 2026-10-18) |
+
 ## Variable stars (VSX)
 
 Folders under [vsx/](vsx/) hold the submitted form data, the plots and light curve
