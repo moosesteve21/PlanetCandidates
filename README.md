@@ -25,7 +25,7 @@ Independent checks of candidates reported by others, with the figures linked fro
 
 | Star | Report | Result |
 |---|---|---|
-| [TIC 277713012](checks/TIC277713012/) | [PHT Talk, 2026-10-19](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/2110/4158825): single ~5.5 h event (S89), possible event (S8) | S89 dip tracks a scattered-light rise in the SAP background; QLP and TARS flat; S8 is post-restart settling (checked and replied on Talk 2026-10-19) |
+| [TIC 277713012](checks/TIC277713012/) | [PHT Talk, 2026-10-19](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/2110/4158825): single ~5.5 h event (S89), possible event (S8) | S89 dip tracks a scattered-light rise in the SAP background; QLP and TARS flat; S8 is post-restart settling (checked and replied on Talk 2026-10-19; accepted by the reporter as a false positive, closed) |
 | [TIC 259477022](checks/TIC259477022/) | [PHT Talk, 2026-10-17](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/2110/4157680): two ~2300 ppm, ~8 h events (S3, S5), P 60.8 or 30.4 d | Dips in SPOC 2-min PDCSAP only; SAP and TESS-SPOC FFI flat: most likely PDC artefacts (checked and replied on Talk 2026-10-18; accepted by the reporter, closed) |
 
 ## Variable stars (VSX)
