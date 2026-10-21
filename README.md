@@ -25,6 +25,7 @@ Independent checks of candidates reported by others, with the figures linked fro
 
 | Star | Report | Result |
 |---|---|---|
+| [TIC 92350382](checks/TIC92350382/) | [PHT Talk, 2026-10-21](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/2110/4160105): 2.90 d, 442 ppm and 7.37 d, 638 ppm, M0.5 dwarf | Both in the independent TARS light curves (3.0σ and 5.6σ against random phases); depth map puts signal 1 on the target; the S1 single dip is a background artefact |
 | [TIC 100796276](checks/TIC100796276/) | [PHT Talk, 2026-10-19](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/2110/4158970): 18.15 d, ~3.6 ppt, M dwarf | Independently recovered by KESTREL (single-star run): 18.15207 d, SNR 18, clean (replied on Talk 2026-10-20) |
 | [TIC 254296688](checks/TIC254296688/) | [PHT Talk, 2026-10-19](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/2110/4159237): 0.64 d, ~90 ppm on an F2V star | Fold is a sinusoid, not a box; periodogram shows gamma Doradus frequency groups: pulsation (checked and replied on Talk 2026-10-20) |
 | [TIC 277713012](checks/TIC277713012/) | [PHT Talk, 2026-10-19](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/2110/4158825): single ~5.5 h event (S89), possible event (S8) | S89 dip tracks a scattered-light rise in the SAP background; QLP and TARS flat; S8 is post-restart settling (checked and replied on Talk 2026-10-19; accepted by the reporter as a false positive, closed) |
