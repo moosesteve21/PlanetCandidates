@@ -18,4 +18,14 @@
   coincides with a sky-background rise of ~8.6% of the star's flux in the SPOC data and appears as a brightening in
   TARS, ELEANOR-LITE and TGLC: an over-subtracted background, not a transit.
 
+**Blind search, 2026-10-25.** The development version of our search (KESTREL v2: uncapped period grid, revised
+stopping rules, and a mask for sky-background excursions in the SPOC/TESS-SPOC data), run on Sectors 1, 27, 68 and 95
+without being given a period, finds signal 1 as its top peak: P = 2.90371 d, SDE 12.2, 469 ppm, a dip at 24 of 25
+transits with data, positive depth in every sector (S1 283 ± 94, S27 544 ± 88, S68 538 ± 89, S95 321 ± 83 ppm),
+odd/even 1.2σ, no secondary. It passes all the search's checks; a transit fit agrees with the star's density (0.5σ),
+the depth map again puts it on the target, and TRICERATOPS gives FPP 0.027 ± 0.002, NFPP < 0.0001. Signal 2 is the
+second peak (7.36666 d, SDE 9.3, 636 ppm), flagged for an ambiguous period. The same two peaks come out with a
+biweight detrending. The published version of our search (paper-v1) stopped on this star before testing it, because
+the Sector 1 artefact above dominated its periodogram; the background mask is the fix.
+
 `figure.py` makes the figure from the TARS files at MAST.
