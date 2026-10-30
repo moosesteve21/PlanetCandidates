@@ -11,6 +11,9 @@ Only material that has been submitted, or is drafted for submission, is kept her
 [discovery_log.md](discovery_log.md) holds dated fingerprints (SHA-256 hashes) of candidates
 found but not yet made public, so the date each was found can be checked later.
 
+[Is it a planet?](guide/) is a write-up of lessons learned from signals that looked like
+planets and weren't, with annotated examples from the search (a request for comments).
+
 ## Transit candidates
 
 | Candidate | Found | Summary | Status |
