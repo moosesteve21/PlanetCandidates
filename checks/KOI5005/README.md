@@ -5,7 +5,8 @@
 dimming is offset from the target (DR25 comment `CENT_UNRESOLVED_OFFSET`). The reporter suggests the signal is on the
 2.4″ companion, B. Questions: is it real, and is it on B?
 
-**Checked 2026-10-30**, from Kepler long-cadence light curves (Q1–Q17, 15 quarters on MAST).
+**Checked 2026-10-30**, from Kepler long-cadence light curves (Q1–Q17, 15 quarters on MAST). KESTREL handles only
+TESS data, so these are one-off checks with the scripts in this folder, not pipeline results.
 
 **The two stars (Gaia DR3).** A = KIC 3755522 = TIC 138303937 (G 12.24, BP−RP 0.81, parallax 2.941 ± 0.011 mas,
 RUWE 1.05). B = TIC 1877145512 (G 13.16, BP−RP 0.97, parallax 2.935 ± 0.015 mas, RUWE 1.38), 2.36″ south of A
