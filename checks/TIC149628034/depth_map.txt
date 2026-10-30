@@ -1,0 +1,71 @@
+TIC 149628034: T = 11.25; 24 neighbours within 2.5' brighter than T = 16.8
+S6: 3 transits, PSF sigma 0.57 px; best source TIC 149628034 (target dchi2 +0.0; no-dip dchi2 +0.1 for the target)
+S5: 2 transits, PSF sigma 0.40 px; best source TIC 149628032 (target dchi2 +6.1; no-dip dchi2 +0.1 for the target)
+S4: 2 transits, PSF sigma 0.56 px; best source TIC 149628052 (target dchi2 +3.9; no-dip dchi2 +0.0 for the target)
+S3: 3 transits, PSF sigma 0.56 px; best source TIC 149628035 (target dchi2 +2.8; no-dip dchi2 +1.6 for the target)
+S1: 4 transits, PSF sigma 0.55 px; best source TIC 149628035 (target dchi2 +0.3; no-dip dchi2 +0.5 for the target)
+S2: 4 transits, PSF sigma 0.58 px; best source TIC 149628034 (target dchi2 +0.0; no-dip dchi2 +1.0 for the target)
+S10: 4 transits, PSF sigma 0.55 px; best source TIC 149628035 (target dchi2 +0.8; no-dip dchi2 +1.1 for the target)
+S13: 4 transits, PSF sigma 0.56 px; best source TIC 149628034 (target dchi2 +0.0; no-dip dchi2 +0.1 for the target)
+S11: 4 transits, PSF sigma 0.55 px; best source TIC 149628034 (target dchi2 +0.0; no-dip dchi2 +1.0 for the target)
+S12: 4 transits, PSF sigma 0.55 px; best source TIC 149628034 (target dchi2 +0.0; no-dip dchi2 +0.1 for the target)
+S8: 3 transits, PSF sigma 0.40 px; best source TIC 149628034 (target dchi2 +0.0; no-dip dchi2 +5.2 for the target)
+S7: 4 transits, PSF sigma 0.59 px; best source TIC 149628034 (target dchi2 +0.0; no-dip dchi2 +0.0 for the target)
+S9: 4 transits, PSF sigma 0.57 px; best source TIC 149628015 (target dchi2 +7.6; no-dip dchi2 +0.1 for the target)
+S27: 4 transits, PSF sigma 0.53 px; best source TIC 149628034 (target dchi2 +0.0; no-dip dchi2 +0.0 for the target)
+S30: 4 transits, PSF sigma 0.57 px; best source TIC 149628042 (target dchi2 +0.0; no-dip dchi2 +0.0 for the target)
+S33: 4 transits, PSF sigma 0.56 px; best source TIC 149628034 (target dchi2 +0.0; no-dip dchi2 +7.1 for the target)
+S32: 4 transits, PSF sigma 0.55 px; best source TIC 149628034 (target dchi2 +0.0; no-dip dchi2 +4.4 for the target)
+S31: 4 transits, PSF sigma 0.56 px; best source TIC 149628035 (target dchi2 +3.3; no-dip dchi2 +8.8 for the target)
+S28: 2 transits, PSF sigma 0.58 px; best source TIC 149628034 (target dchi2 +0.0; no-dip dchi2 +1.9 for the target)
+S29: 3 transits, PSF sigma 0.57 px; best source TIC 149628032 (target dchi2 +0.0; no-dip dchi2 +0.0 for the target)
+S39: 4 transits, PSF sigma 0.54 px; best source TIC 149628034 (target dchi2 +0.0; no-dip dchi2 +0.1 for the target)
+S36: 4 transits, PSF sigma 0.54 px; best source TIC 149628034 (target dchi2 +0.0; no-dip dchi2 +5.4 for the target)
+S37: 4 transits, PSF sigma 0.55 px; best source TIC 149628034 (target dchi2 +0.0; no-dip dchi2 +1.5 for the target)
+S38: 4 transits, PSF sigma 0.58 px; best source TIC 149628034 (target dchi2 +0.0; no-dip dchi2 +0.1 for the target)
+S34: 4 transits, PSF sigma 0.56 px; best source TIC 149628034 (target dchi2 +0.0; no-dip dchi2 +3.3 for the target)
+S68: 4 transits, PSF sigma 0.55 px; best source TIC 149628034 (target dchi2 +0.0; no-dip dchi2 +2.7 for the target)
+S61: 4 transits, PSF sigma 0.57 px; best source TIC 149628035 (target dchi2 +0.0; no-dip dchi2 +0.0 for the target)
+S65: 4 transits, PSF sigma 0.58 px; best source TIC 149628034 (target dchi2 +0.0; no-dip dchi2 +0.2 for the target)
+S66: no usable cadences; skipped
+S69: 3 transits, PSF sigma 0.55 px; best source TIC 149628034 (target dchi2 +0.0; no-dip dchi2 +8.6 for the target)
+S62: 2 transits, PSF sigma 0.57 px; best source TIC 149628035 (target dchi2 +11.0; no-dip dchi2 +0.0 for the target)
+S63: 3 transits, PSF sigma 0.40 px; best source TIC 149628034 (target dchi2 +0.0; no-dip dchi2 +2.3 for the target)
+S64: 3 transits, PSF sigma 0.56 px; best source TIC 149628065 (target dchi2 +2.6; no-dip dchi2 +3.8 for the target)
+S87: 4 transits, PSF sigma 0.63 px; best source TIC 149628035 (target dchi2 +0.1; no-dip dchi2 +0.0 for the target)
+S93: no usable cadences; skipped
+S95: 3 transits, PSF sigma 0.56 px; best source TIC 149628034 (target dchi2 +0.0; no-dip dchi2 +0.4 for the target)
+S96: 3 transits, PSF sigma 0.55 px; best source TIC 149628032 (target dchi2 +0.0; no-dip dchi2 -0.0 for the target)
+S88: 4 transits, PSF sigma 0.60 px; best source TIC 149628035 (target dchi2 +0.5; no-dip dchi2 +0.0 for the target)
+S89: 5 transits, PSF sigma 0.63 px; best source TIC 149628034 (target dchi2 +0.0; no-dip dchi2 +5.4 for the target)
+S90: 4 transits, PSF sigma 0.40 px; best source TIC 10000439808 (target dchi2 +2.3; no-dip dchi2 +0.1 for the target)
+S97: 8 transits, PSF sigma 0.58 px; best source TIC 149628015 (target dchi2 +0.0; no-dip dchi2 -0.0 for the target)
+S98: 9 transits, PSF sigma 0.61 px; best source TIC 149628034 (target dchi2 +0.0; no-dip dchi2 +0.6 for the target)
+
+Summed over sectors, chi-square relative to the best hypothesis (lower = better):
+  TIC  149628034  T=11.25    0.0"   dchi2 =     0.0   <- target
+  TIC  149628018  T=13.99   78.2"   dchi2 =    65.6
+  TIC  149628024  T=14.49  148.7"   dchi2 =    61.9
+  TIC  149628058  T=14.50  108.8"   dchi2 =    64.7
+  TIC  149628042  T=14.78  133.8"   dchi2 =    55.9
+  TIC  149628060  T=14.80  108.0"   dchi2 =    60.5
+  TIC  149628015  T=15.06   97.8"   dchi2 =    57.8
+  TIC  149628032  T=15.14   52.1"   dchi2 =    56.4
+  TIC  149628025  T=15.54  126.2"   dchi2 =    62.1
+  TIC  149628053  T=15.55  114.3"   dchi2 =    61.9
+  TIC  149628023  T=15.74   99.6"   dchi2 =    65.1
+  TIC  149628052  T=15.84  126.1"   dchi2 =    57.7
+  TIC  149628008  T=15.94  112.9"   dchi2 =    56.0
+  TIC  149627999  T=15.94  137.9"   dchi2 =    55.2
+  TIC 10000439808  T=15.96   57.7"   dchi2 =    57.8
+  TIC  149628059  T=16.13  119.9"   dchi2 =    60.4
+  TIC  149628049  T=16.21   69.0"   dchi2 =    62.4
+  TIC  149628010  T=16.21  109.1"   dchi2 =    63.8
+  TIC  149628065  T=16.38  137.3"   dchi2 =    59.9
+  TIC  149628064  T=16.42  126.0"   dchi2 =    61.9
+  TIC  149628045  T=16.50   84.4"   dchi2 =    53.5
+  TIC  149628062  T=16.58  138.4"   dchi2 =    59.9
+  TIC  149628035  T=16.64   21.6"   dchi2 =    20.7
+  TIC  149628017  T=16.70   85.3"   dchi2 =    62.5
+  TIC  149628019  T=16.73  127.6"   dchi2 =    62.2
+  no dip anywhere                 dchi2 =    67.4
