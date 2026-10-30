@@ -1,0 +1,18 @@
+TIC 278708716: T = 11.64; 7 neighbours within 2.5' brighter than T = 17.1
+S1: no transit covered; skipped
+S28: 2 transits, PSF sigma 0.73 px; best source TIC 278708716 (target dchi2 +0.0; no-dip dchi2 +208.1 for the target)
+S68: 1 transits, PSF sigma 0.67 px; best source TIC 278708716 (target dchi2 +0.0; no-dip dchi2 +38.6 for the target)
+S95: 2 transits, PSF sigma 0.76 px; best source TIC 278708716 (target dchi2 +0.0; no-dip dchi2 +205.6 for the target)
+S105: 2 transits, PSF sigma 0.95 px; best source TIC 278708716 (target dchi2 +0.0; no-dip dchi2 +53.6 for the target)
+S106: no transit covered; skipped
+
+Summed over sectors, chi-square relative to the best hypothesis (lower = better):
+  TIC  278708716  T=11.64    0.0"   dchi2 =     0.0   <- target
+  TIC  278710232  T=15.47  130.4"   dchi2 =   502.9
+  TIC  278708720  T=15.54  133.5"   dchi2 =   505.9
+  TIC  278708723  T=15.77   55.3"   dchi2 =   501.7
+  TIC  278708709  T=15.90   89.6"   dchi2 =   505.9
+  TIC  278708710  T=16.41  101.2"   dchi2 =   505.9
+  TIC  278710244  T=16.63  145.1"   dchi2 =   505.9
+  TIC 10002581017  T=17.12    8.7"   dchi2 =    60.0
+  no dip anywhere                 dchi2 =   505.9
