@@ -1,6 +1,6 @@
 # Is it a planet? What I learned reading TESS transit plots
 
-*Steve Price ([ORCID 0009-0004-6010-3869](https://orcid.org/0009-0004-6010-3869)), October 2026*
+*Steve Price ([ORCID 0009-0004-6010-3869](https://orcid.org/0009-0004-6010-3869)), October 2026 · [PDF version](is-it-a-planet.pdf)*
 
 ## Why I wrote this
 
