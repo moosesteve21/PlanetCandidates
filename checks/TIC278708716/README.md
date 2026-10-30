@@ -23,7 +23,7 @@ and S105. Question: is the 22 Jun 2026 (S105) transit, ~1.5 ppt in the reporter'
   | 5×5 | 2402 ± 316 ppm | 2483 ± 367 ppm |
   | radius 3 px | 2426 ± 328 ppm | 2714 ± 385 ppm |
 
-  The 22 Jun transit is 2.1–2.6 ppt here, within 2σ of the other sectors. The 9 Jul light curve is noisier
+  The 22 Jun transit is 2.1–2.6 ppt here, within about 2σ of the other sectors. The 9 Jul light curve is noisier
   (out-of-transit scatter 2.7 against 1.9 ppt in the 3×3 aperture). In Sector 106 the predicted transit
   (BTJD 4248.48) falls in a data gap.
 
