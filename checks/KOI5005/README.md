@@ -53,4 +53,25 @@ parameter around 0.86 (or an eccentric orbit): possible, not a problem.
 ExoMiner. TESS can't add much: in its 21″ pixels A and B blend to the same ~200 ppm dip, below single-transit noise at
 T ≈ 11.8, and a 252 d period leaves most sectors without a transit.
 
+**Follow-up questions (2026-10-31).**
+
+*Without Q4* (`three_events.py`, `inverted_peaks.py`). The last three events alone: 209 ± 14 ppm (PDCSAP), 9.9σ above
+stacks at random times in their own quarters (SAP 219 ± 14 ppm, 9.3σ); none of 2,000 random stacks reaches that depth
+either way up (1 of 2,000 upside down in SAP). A blind search of the light curve without Q4 for three or more windows on a
+common period of 200–500 d (box depth every 0.02 d, stacked with formal weights): upright, the real period is the best
+peak (SNR 15.5; next best 11.4). Upside down, 5 of 300 one-day period bins reach the same SNR (best 16.3), but each of them
+rests on one large brightening in Q2 (BKJD 210.7, +400 ppm, ~18σ in a single window) plus one other brightening: one strong
+event, not three. Scored instead by each chain's third-strongest window, so that all three events must be strong on their
+own, the real period scores 7.5σ and no other period reaches it, upright or upside down (best upside down 5.3σ; peaks at
+365.0 d, Kepler's orbit, reflect seasonal systematics). SAP has much larger slow systematics and is not useful for the
+blind search.
+
+*The Q12 event's centroid and the comparison window* (`q12_window.py`). There is a 24 h gap in the data from 1.98 to
+1.00 d before the Q12 event. Along the A→B line (A −0.75″, B +1.74″ from the light centroid), Q12 gives +1.0 ± 1.3 and
++0.1 ± 1.1″ with ±0.5 d windows (linear/quadratic baseline) and −0.3 to −1.0 ± 1.2–1.8″ with windows from ±1 d (linear)
+to ±3 d, which take in the gap: longer windows do move Q12 toward A, as in the reporter's check, but its error is about
+half the A–B separation, so Q12 alone can't separate the two stars. Longer windows also push Q9 and Q15 well beyond B
+(up to +9″ with linear baselines), so long-window centroids are dominated by slow drift; the ±0.5 d results put Q9
+(+1.6/+1.0) and Q15 (+1.8/+1.5) on B's side.
+
 Scripts download the Kepler data from MAST into `kepler/` and write the figures here.
