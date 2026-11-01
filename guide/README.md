@@ -145,6 +145,8 @@ The plots carry clues too:
 - **The shape is wrong.** The decline is slow and the recovery abrupt, and all three last about six hours, longer than a planet could take to cross these stars.
 - **Every dip comes from one sector.** Each of the three shown rests on three dips, all in sector 97.
 
+**Where the gaps fall.** Every sector has regular breaks while TESS sends its data back to Earth, and the light often drifts for hours on either side of them as scattered light and the spacecraft settle. Up to sector 55 there is one break of about a day near the middle of the sector (around days 12–14). From sector 56 the data come in four stretches of about a week: short breaks of about five hours around days 5–7 and 18–21, and a longer one in the middle, from under a day to several days. The start and end of each sector can drift in the same way. KESTREL trims the ends of every stretch of data (more where the edge is still drifting) and flags a signal whose dips mostly sit next to a gap. Thanks to mspill on Planet Hunters TESS for pointing out how common these ramps are.
+
 If you find a dip, check whether it falls next to a gap in the data, and whether other stars observed in the same sector dip at the same time.
 
 ## Lesson 8: a neighbour's eclipses
