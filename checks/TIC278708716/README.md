@@ -37,6 +37,12 @@ and S105. Question: is the 22 Jun 2026 (S105) transit, ~1.5 ppt in the reporter'
 
   ![Depth map](depth_map.png)
 
+- **False-positive probability (2026-11-02).** TRICERATOPS (Giacalone et al. 2021) on an MCMC transit fit of the
+  five S28, S68 and S95 transits (Rp/R* 0.050, b 0.49 [0.18, 0.72], Rp ≈ 4.5 R⊕; fitted stellar density
+  2.1 g/cm³, matching the TIC's 2.1): **FPP 0.015 ± 0.0085, NFPP < 0.0001**, the mean and standard deviation of
+  10 runs of 10⁶ draws (after Eschen & Kunimoto 2024). The light curve was folded and binned to 10 min; apertures
+  from TESS-SPOC S1, S28 and S68 (QLP publishes none); all 46 Gaia stars in the field allowed as sources; no
+  contrast curve. In the last run, 17% of the probability was a planet on an unresolved bound companion.
 - **Open.** Anything unresolved within a few arcseconds of the target: high-resolution imaging.
 
 `s105_plot.py` makes the S105 figure from a TESScut cutout; `depth_map.txt` is the depth-map summary.
