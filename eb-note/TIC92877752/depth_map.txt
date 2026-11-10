@@ -1,0 +1,12 @@
+ephemeris (search): P 16.362316 T0 1328.13323 T14 13.69 h
+TIC 92877752: T = 9.75; 2 neighbours within 2.5' brighter than T = 15.3, plus TIC 1991972816 as asked
+S1: 2 transits, PSF sigma 0.61 px; best source TIC 92877752 (target dchi2 +0.0; no-dip dchi2 +1155.9 for the target)
+S28: 2 transits, PSF sigma 0.77 px; best source TIC 92877752 (target dchi2 +0.0; no-dip dchi2 +1628.6 for the target)
+S68: 2 transits, PSF sigma 0.74 px; best source TIC 92877752 (target dchi2 +0.0; no-dip dchi2 +2309.0 for the target)
+S95: no transit covered; skipped
+
+Summed over sectors, chi-square relative to the best hypothesis (lower = better):
+  TIC   92877752  T= 9.75    0.0"   dchi2 =     0.0   <- target
+  TIC   92877764  T=11.25   89.0"   dchi2 =  4975.1
+  TIC 1991972816  T=19.71   27.5"   dchi2 =  4545.2
+  no dip anywhere                 dchi2 =  5093.5

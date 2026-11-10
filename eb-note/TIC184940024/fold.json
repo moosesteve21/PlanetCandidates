@@ -1,0 +1,25 @@
+{
+ "tic": 184940024,
+ "P": 0.427983,
+ "T0_btjd": 1684.11715,
+ "t14_h": 2.0,
+ "sectors": [
+  74,
+  75,
+  76,
+  81,
+  82,
+  83
+ ],
+ "aperture_fraction": 0.026,
+ "min1_ppm": 6686,
+ "min1_err_ppm": 132,
+ "min2_phase": 0.498,
+ "min2_ppm": 6082,
+ "min2_err_ppm": 132,
+ "min2_sigma": 46.0,
+ "min1_undiluted_ppm": 259620,
+ "min2_undiluted_ppm": 236174,
+ "ooe_scatter_ppm": 5366,
+ "n_points": 66726
+}

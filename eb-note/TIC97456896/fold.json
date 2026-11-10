@@ -1,0 +1,33 @@
+{
+ "tic": 97456896,
+ "P": 2.882355,
+ "epoch_min1_btjd": 2037.1893,
+ "epoch_min1_bjd": 2459037.1893,
+ "swapped": false,
+ "author": "QLP",
+ "sectors": [
+  27,
+  67,
+  92,
+  94
+ ],
+ "n_points": 35243,
+ "t14_h": 3.0,
+ "min1_ppm": 132607,
+ "min1_err_ppm": 1123,
+ "min1_mag": 0.1545,
+ "min2_phase": 0.4995,
+ "min2_ppm": 64827,
+ "min2_err_ppm": 1123,
+ "min2_mag": 0.0728,
+ "min2_sigma": 57.7,
+ "ooe_range_ppm": 3992,
+ "duration_pct": 4.3,
+ "eph": {
+  "P": 2.8823489,
+  "P_err": 1.4e-06,
+  "T0_btjd": 2968.19173,
+  "T0_err": 0.0004,
+  "n_sectors": 4
+ }
+}

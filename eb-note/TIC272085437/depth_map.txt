@@ -1,0 +1,24 @@
+ephemeris (search): P 32.593156 T0 1331.42379 T14 18.00 h
+TIC 272085437: T = 9.58; 7 neighbours within 2.5' brighter than T = 15.1
+  TIC 272085437: sectors left out by the cap (10 of 44 kept): S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S11, S12, S13, S27, S28, S29, S30, S31, S32, S33, S34, S35, S36, S37, S38, S39, S62, S63, S64, S65, S66, S67, S90, S96
+S68: 1 transits, PSF sigma 0.76 px; best source TIC 272085458 (target dchi2 +0.8; no-dip dchi2 -0.0 for the target)
+S69: 1 transits, PSF sigma 0.79 px; best source TIC 272087288 (target dchi2 +309.1; no-dip dchi2 -0.0 for the target)
+S87: 1 transits, PSF sigma 0.71 px; best source TIC 272085437 (target dchi2 +0.0; no-dip dchi2 +0.2 for the target)
+S93: 1 transits, PSF sigma 0.69 px; best source TIC 272085437 (target dchi2 +0.0; no-dip dchi2 +4.1 for the target)
+S94: download failed (SearchError)
+S95: 1 transits, PSF sigma 0.71 px; best source TIC 272087288 (target dchi2 +1.7; no-dip dchi2 +0.0 for the target)
+S88: 1 transits, PSF sigma 0.40 px; best source TIC 272087307 (target dchi2 +4.5; no-dip dchi2 +0.0 for the target)
+S89: 1 transits, PSF sigma 0.70 px; best source TIC 272085437 (target dchi2 +0.0; no-dip dchi2 +1247.9 for the target)
+S97: 2 transits, PSF sigma 0.72 px; best source TIC 272085437 (target dchi2 +0.0; no-dip dchi2 +1647.1 for the target)
+S98: 2 transits, PSF sigma 0.76 px; best source TIC 272085437 (target dchi2 +0.0; no-dip dchi2 +3.9 for the target)
+
+Summed over sectors, chi-square relative to the best hypothesis (lower = better):
+  TIC  272085437  T= 9.58    0.0"   dchi2 =     0.0   <- target
+  TIC  272087288  T=11.65  126.9"   dchi2 =  2581.8
+  TIC  272087307  T=13.51   58.4"   dchi2 =  2894.8
+  TIC  272085455  T=13.92   91.4"   dchi2 =  2901.1
+  TIC  272085434  T=13.96   79.6"   dchi2 =  2800.7
+  TIC  272085458  T=14.26   91.0"   dchi2 =  2901.9
+  TIC  272087286  T=14.56  135.3"   dchi2 =  2702.0
+  TIC  272085439  T=15.02  136.8"   dchi2 =  2902.2
+  no dip anywhere                 dchi2 =  2903.2

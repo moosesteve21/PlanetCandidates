@@ -54,3 +54,7 @@ uploaded to VSX, and a PDF of the full report.
 |---|---|---|---|
 | [TIC 434331752](vsx/TIC434331752/) (ATO J093.6734+17.5725) | 2026-10-10 | Spotted star, P = 1.38477 d, V 13.53–13.57; second period 2.28 d in TESS | Submitted 2026-10-11; under VSX review |
 | [TIC 348773952](vsx/TIC348773952/) (BD-13 1046) | 2026-10 | Eclipsing binary (EA), P = 5.078277 d, 10.47 V (0.151) TESS; Gaia DR3 spectroscopic binary | Draft saved 2026-10-14; waits for the previous submission |
+
+**Research note (draft):** [eb-note/](eb-note/) has the material for a planned RNAAS note: 5 new eclipsing
+binaries, eclipses in an unresolved system, 7 eclipsing binaries whose VSX entries lack the period or type, and
+TESS rotation periods for 27 variables already in VSX, with folds, periodograms and depth maps for each star.

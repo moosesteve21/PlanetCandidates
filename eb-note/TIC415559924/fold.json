@@ -1,0 +1,35 @@
+{
+ "tic": 415559924,
+ "P": 3.035842,
+ "epoch_min1_btjd": 1470.28118,
+ "epoch_min1_bjd": 2458470.28118,
+ "swapped": false,
+ "author": "TESS-SPOC+QLP",
+ "sectors": [
+  6,
+  33,
+  43,
+  44,
+  71,
+  72
+ ],
+ "n_points": 31059,
+ "t14_h": 2.0,
+ "min1_ppm": 446987,
+ "min1_err_ppm": 10560,
+ "min1_mag": 0.6432,
+ "min2_phase": 0.5004,
+ "min2_ppm": 446524,
+ "min2_err_ppm": 10560,
+ "min2_mag": 0.6423,
+ "min2_sigma": 42.3,
+ "ooe_range_ppm": 71449,
+ "duration_pct": 2.7,
+ "eph": {
+  "P": 3.0358417,
+  "P_err": 2.5e-06,
+  "T0_btjd": 2535.86207,
+  "T0_err": 0.0005,
+  "n_sectors": 6
+ }
+}

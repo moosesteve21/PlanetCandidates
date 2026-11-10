@@ -1,0 +1,44 @@
+{
+ "tic": 450087679,
+ "search_P": 0.7075,
+ "vsx_P": 0.771,
+ "P_LS": 1.411334,
+ "power": 0.692,
+ "P_sector_median": 1.41773,
+ "P_sector_sd": 0.00543,
+ "amp_mag_sectors": [
+  0.0694,
+  0.1083,
+  0.0608
+ ],
+ "sectors": [
+  5,
+  32,
+  98
+ ],
+ "authors": [
+  "SPOC",
+  "TESS-SPOC"
+ ],
+ "per_sector": [
+  [
+   5,
+   1.41773,
+   0.896
+  ],
+  [
+   32,
+   1.42308,
+   0.897
+  ],
+  [
+   98,
+   1.41223,
+   0.783
+  ]
+ ],
+ "sectors_agreeing": "3/3",
+ "amp_ppt_PLS": 51.8,
+ "amp_ppt_2PLS": 52.9,
+ "span_d": 2607.7
+}

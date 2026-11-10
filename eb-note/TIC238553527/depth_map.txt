@@ -1,0 +1,34 @@
+ephemeris (search): P 0.468095 T0 2474.73763 T14 4.49 h
+TIC 238553527: T = 10.67; 23 neighbours within 2.5' brighter than T = 16.2
+S45: download failed (SearchError)
+S43: 49 transits, PSF sigma 0.59 px; best source TIC 238553527 (target dchi2 +0.0; no-dip dchi2 +311.5 for the target)
+S44: 45 transits, PSF sigma 0.80 px; best source TIC 238553527 (target dchi2 +0.0; no-dip dchi2 +548.0 for the target)
+S72: 44 transits, PSF sigma 0.63 px; best source TIC 238553527 (target dchi2 +0.0; no-dip dchi2 +147.1 for the target)
+S71: 47 transits, PSF sigma 0.40 px; best source TIC 238553531 (target dchi2 +1.2; no-dip dchi2 +0.0 for the target)
+
+Summed over sectors, chi-square relative to the best hypothesis (lower = better):
+  TIC  238553503  T= 9.94  144.7"   dchi2 =  1006.6
+  TIC  238553527  T=10.67    0.0"   dchi2 =     0.0   <- target
+  TIC  238553508  T=12.30   46.2"   dchi2 =  1006.0
+  TIC  238553548  T=12.70  114.9"   dchi2 =  1006.6
+  TIC  238553490  T=13.27   86.5"   dchi2 =  1006.6
+  TIC  238553513  T=13.56   50.8"   dchi2 =  1006.6
+  TIC  238553478  T=13.67  134.5"   dchi2 =  1006.6
+  TIC  238553607  T=14.25  114.9"   dchi2 =  1005.7
+  TIC  238553507  T=14.43   94.4"   dchi2 =  1006.6
+  TIC  238553536  T=14.53   46.2"   dchi2 =   991.7
+  TIC  238553555  T=14.64   90.2"   dchi2 =  1006.5
+  TIC  238553531  T=14.65   80.8"   dchi2 =  1005.3
+  TIC  238553481  T=14.93   97.7"   dchi2 =  1006.2
+  TIC  238553477  T=15.04   83.6"   dchi2 =  1006.6
+  TIC  238553569  T=15.36   72.5"   dchi2 =  1006.5
+  TIC  238553456  T=15.51  115.1"   dchi2 =  1006.4
+  TIC  238553577  T=15.54  141.4"   dchi2 =  1006.6
+  TIC  238553565  T=15.57   82.0"   dchi2 =  1006.6
+  TIC  238553580  T=15.67  101.1"   dchi2 =  1006.6
+  TIC  238553545  T=15.77  113.8"   dchi2 =  1006.6
+  TIC  238553474  T=15.80  116.3"   dchi2 =  1006.4
+  TIC  238553529  T=16.04   14.8"   dchi2 =   376.9
+  TIC  238553533  T=16.13   48.2"   dchi2 =   996.5
+  TIC  238553611  T=16.16  122.0"   dchi2 =  1006.4
+  no dip anywhere                 dchi2 =  1006.6

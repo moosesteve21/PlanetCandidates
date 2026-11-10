@@ -1,0 +1,36 @@
+{
+ "tic": 156805574,
+ "search_P": 0.7733,
+ "vsx_P": 0.99781,
+ "P_LS": 0.775735,
+ "power": 0.889,
+ "P_sector_median": 0.77466,
+ "P_sector_sd": 0.00042,
+ "amp_mag_sectors": [
+  0.0613,
+  0.0497
+ ],
+ "sectors": [
+  21,
+  48
+ ],
+ "authors": [
+  "SPOC"
+ ],
+ "per_sector": [
+  [
+   21,
+   0.77437,
+   0.929
+  ],
+  [
+   48,
+   0.77496,
+   0.881
+  ]
+ ],
+ "sectors_agreeing": "2/2",
+ "amp_ppt_PLS": 52.6,
+ "amp_ppt_2PLS": 53.7,
+ "span_d": 765.4
+}

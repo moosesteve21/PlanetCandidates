@@ -1,0 +1,73 @@
+ephemeris (search): P 1.593911 T0 1544.93452 T14 2.44 h
+TIC 294191640: T = 12.11; 60 neighbours within 2.5' brighter than T = 17.6
+S10: 14 transits, PSF sigma 0.79 px; best source TIC 294191640 (target dchi2 +0.0; no-dip dchi2 +28.2 for the target)
+S9: 14 transits, PSF sigma 0.77 px; best source TIC 294191640 (target dchi2 +0.0; no-dip dchi2 +738.9 for the target)
+S36: 16 transits, PSF sigma 0.66 px; best source TIC 294191640 (target dchi2 +0.0; no-dip dchi2 +0.0 for the target)
+S63: 17 transits, PSF sigma 0.66 px; best source TIC 294191640 (target dchi2 +0.0; no-dip dchi2 +1776.4 for the target)
+S90: 17 transits, PSF sigma 0.61 px; best source TIC 294191640 (target dchi2 +0.0; no-dip dchi2 +1077.7 for the target)
+S100: download failed (SearchError)
+S99: 13 transits, PSF sigma 0.67 px; best source TIC 294191640 (target dchi2 +0.0; no-dip dchi2 +377.6 for the target)
+
+Summed over sectors, chi-square relative to the best hypothesis (lower = better):
+  TIC  294191640  T=12.11    0.0"   dchi2 =     0.0   <- target
+  TIC  294191603  T=12.18  120.5"   dchi2 =  3998.8
+  TIC  294191604  T=13.33   86.1"   dchi2 =  3998.8
+  TIC  294191598  T=13.38   90.0"   dchi2 =  3998.8
+  TIC  294191701  T=13.68  122.0"   dchi2 =  3998.8
+  TIC  294191682  T=14.05  141.4"   dchi2 =  3998.8
+  TIC  146586356  T=14.92  100.2"   dchi2 =  3998.8
+  TIC  146586339  T=15.19  148.5"   dchi2 =  3998.8
+  TIC  294191655  T=15.27  134.0"   dchi2 =  3998.8
+  TIC  294191607  T=15.54   76.1"   dchi2 =  3998.8
+  TIC  294191629  T=15.58   50.5"   dchi2 =  3990.1
+  TIC  294191674  T=15.66  136.8"   dchi2 =  3998.8
+  TIC  294191700  T=15.68  120.9"   dchi2 =  3998.8
+  TIC  294191637  T=15.68  110.8"   dchi2 =  3998.8
+  TIC  294191685  T=15.75  114.1"   dchi2 =  3998.8
+  TIC  294191643  T=15.77   30.0"   dchi2 =  3710.9
+  TIC  294191615  T=15.87  107.4"   dchi2 =  3998.8
+  TIC  146586380  T=15.90  125.1"   dchi2 =  3998.8
+  TIC  294191653  T=15.93   61.3"   dchi2 =  3998.8
+  TIC  294191654  T=15.94   58.2"   dchi2 =  3998.8
+  TIC  294191647  T=15.96   38.2"   dchi2 =  3920.2
+  TIC  146586343  T=16.20   95.3"   dchi2 =  3998.8
+  TIC  146586353  T=16.22   82.3"   dchi2 =  3998.8
+  TIC  294191636  T=16.25   61.2"   dchi2 =  3998.8
+  TIC  294191635  T=16.30   31.7"   dchi2 =  3770.9
+  TIC  294191679  T=16.33   85.8"   dchi2 =  3998.8
+  TIC  294191632  T=16.33   97.0"   dchi2 =  3998.8
+  TIC  294191659  T=16.38   45.9"   dchi2 =  3996.2
+  TIC  146586324  T=16.39  137.3"   dchi2 =  3998.8
+  TIC  146586405  T=16.39  111.6"   dchi2 =  3998.8
+  TIC  146586390  T=16.44  137.4"   dchi2 =  3998.8
+  TIC  294191661  T=16.50   62.2"   dchi2 =  3998.8
+  TIC  294191706  T=16.59  142.6"   dchi2 =  3998.8
+  TIC  294191676  T=16.70  101.1"   dchi2 =  3998.8
+  TIC  294191630  T=16.77   80.9"   dchi2 =  3998.8
+  TIC  294191680  T=16.77   89.5"   dchi2 =  3998.8
+  TIC  294191591  T=16.84  132.7"   dchi2 =  3998.8
+  TIC  294191693  T=16.93  111.8"   dchi2 =  3998.8
+  TIC  294191646  T=16.96   38.2"   dchi2 =  3908.6
+  TIC  294191692  T=16.98  112.2"   dchi2 =  3998.8
+  TIC  146586400  T=17.01  100.7"   dchi2 =  3998.8
+  TIC  294191642  T=17.04   73.5"   dchi2 =  3998.8
+  TIC  294191639  T=17.09   32.3"   dchi2 =  3807.8
+  TIC  865091140  T=17.10   98.3"   dchi2 =  3998.8
+  TIC  294191696  T=17.11  125.0"   dchi2 =  3998.8
+  TIC  294191628  T=17.22   27.0"   dchi2 =  3348.0
+  TIC  294191638  T=17.22  143.2"   dchi2 =  3998.8
+  TIC  294191583  T=17.23  140.9"   dchi2 =  3998.8
+  TIC  294191611  T=17.24  102.9"   dchi2 =  3998.8
+  TIC  146586412  T=17.25  123.5"   dchi2 =  3998.8
+  TIC  294191625  T=17.25   75.3"   dchi2 =  3998.8
+  TIC  294191708  T=17.27  141.4"   dchi2 =  3998.8
+  TIC  146586391  T=17.33  114.5"   dchi2 =  3998.8
+  TIC  294191686  T=17.37  133.8"   dchi2 =  3998.8
+  TIC  294191580  T=17.38  149.0"   dchi2 =  3998.8
+  TIC  294191648  T=17.39   29.6"   dchi2 =  3715.2
+  TIC  294191688  T=17.45  108.6"   dchi2 =  3998.8
+  TIC  865091073  T=17.47  132.8"   dchi2 =  3998.8
+  TIC  294191622  T=17.51   37.9"   dchi2 =  3890.1
+  TIC  294191649  T=17.52   36.4"   dchi2 =  3933.7
+  TIC  294191618  T=17.56   66.8"   dchi2 =  3998.8
+  no dip anywhere                 dchi2 =  3998.8

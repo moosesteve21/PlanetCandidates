@@ -1,0 +1,35 @@
+{
+ "tic": 294191640,
+ "P": 1.593911,
+ "epoch_min1_btjd": 1544.93452,
+ "epoch_min1_bjd": 2458544.93452,
+ "swapped": false,
+ "author": "SPOC+QLP",
+ "sectors": [
+  9,
+  10,
+  36,
+  63,
+  90,
+  99
+ ],
+ "n_points": 88919,
+ "t14_h": 2.0,
+ "min1_ppm": 28950,
+ "min1_err_ppm": 927,
+ "min1_mag": 0.0319,
+ "min2_phase": 0.5013,
+ "min2_ppm": 5015,
+ "min2_err_ppm": 927,
+ "min2_mag": 0.0055,
+ "min2_sigma": 5.4,
+ "ooe_range_ppm": 4639,
+ "duration_pct": 5.2,
+ "eph": {
+  "P": 1.5939112,
+  "P_err": 2.8e-07,
+  "T0_btjd": 2713.27135,
+  "T0_err": 0.00017,
+  "n_sectors": 6
+ }
+}

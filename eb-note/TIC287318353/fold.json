@@ -1,0 +1,33 @@
+{
+ "tic": 287318353,
+ "P": 0.1666715,
+ "epoch_min1_btjd": 2746.12959,
+ "epoch_min1_bjd": 2459746.12959,
+ "swapped": false,
+ "author": "SPOC+TESS-SPOC",
+ "sectors": [
+  26,
+  52,
+  53,
+  79
+ ],
+ "n_points": 29030,
+ "t14_h": 0.5,
+ "min1_ppm": 3182,
+ "min1_err_ppm": 28,
+ "min1_mag": 0.0035,
+ "min2_phase": 0.5,
+ "min2_ppm": 3237,
+ "min2_err_ppm": 28,
+ "min2_mag": 0.0035,
+ "min2_sigma": 116.0,
+ "ooe_range_ppm": 407,
+ "duration_pct": 12.5,
+ "eph": {
+  "P": 0.1666716,
+  "P_err": 4.8e-07,
+  "T0_btjd": 2746.29655,
+  "T0_err": 0.0015,
+  "n_sectors": 4
+ }
+}

@@ -1,0 +1,27 @@
+ephemeris (search): P 22.393759 T0 1393.98801 T14 18.00 h
+TIC 41230546: T = 10.08; 10 neighbours within 2.5' brighter than T = 15.6
+  TIC 41230546: sectors left out by the cap (10 of 38 kept): S2, S3, S4, S6, S7, S9, S11, S12, S13, S27, S29, S30, S31, S33, S34, S35, S36, S39, S61, S63, S64, S66, S67, S68, S87, S90, S93, S97
+S5: 2 transits, PSF sigma 1.51 px; best source TIC 736680246 (target dchi2 +8.3; no-dip dchi2 +0.0 for the target)
+S10: 1 transits, PSF sigma 0.54 px; best source TIC 41230546 (target dchi2 +0.0; no-dip dchi2 +51.0 for the target)
+S32: 1 transits, PSF sigma 0.40 px; best source TIC 41230578 (target dchi2 +1.1; no-dip dchi2 +0.0 for the target)
+S37: 1 transits, PSF sigma 0.53 px; best source TIC 41230546 (target dchi2 +0.0; no-dip dchi2 +839.0 for the target)
+S65: 2 transits, PSF sigma 0.56 px; best source TIC 41230546 (target dchi2 +0.0; no-dip dchi2 +640.1 for the target)
+S69: 1 transits, PSF sigma 0.58 px; best source TIC 41230546 (target dchi2 +0.0; no-dip dchi2 +2100.9 for the target)
+S94: 2 transits, PSF sigma 0.58 px; best source TIC 736680246 (target dchi2 +0.1; no-dip dchi2 +0.0 for the target)
+S95: 1 transits, PSF sigma 0.62 px; best source TIC 41230506 (target dchi2 +224.3; no-dip dchi2 +0.0 for the target)
+S96: 1 transits, PSF sigma 0.59 px; best source TIC 41230498 (target dchi2 +0.2; no-dip dchi2 +0.0 for the target)
+S98: 3 transits, PSF sigma 0.58 px; best source TIC 41230498 (target dchi2 +0.6; no-dip dchi2 +0.0 for the target)
+
+Summed over sectors, chi-square relative to the best hypothesis (lower = better):
+  TIC   41230546  T=10.08    0.0"   dchi2 =     0.0   <- target
+  TIC   41230597  T=12.10  135.9"   dchi2 =  3630.8
+  TIC   41230506  T=13.11  117.8"   dchi2 =  3398.6
+  TIC  736680246  T=13.35  118.0"   dchi2 =  3429.6
+  TIC   41230562  T=13.58   54.7"   dchi2 =  3620.6
+  TIC   41170340  T=14.33  146.9"   dchi2 =  3630.4
+  TIC   41230578  T=14.43  104.6"   dchi2 =  3629.8
+  TIC   41170338  T=14.76  143.9"   dchi2 =  3630.2
+  TIC   41230563  T=15.07   51.8"   dchi2 =  3575.9
+  TIC   41230498  T=15.19  147.5"   dchi2 =  3559.6
+  TIC   41230582  T=15.40  129.9"   dchi2 =  3624.4
+  no dip anywhere                 dchi2 =  3631.1

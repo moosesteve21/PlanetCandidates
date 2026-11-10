@@ -1,0 +1,16 @@
+ephemeris (search): P 0.950689 T0 2501.03682 T14 6.00 h
+TIC 117121960: T = 9.99; 4 neighbours within 2.5' brighter than T = 15.5
+S46: 24 transits, PSF sigma 0.83 px; best source TIC 117121960 (target dchi2 +0.0; no-dip dchi2 +1419.9 for the target)
+S45: 21 transits, PSF sigma 0.89 px; best source TIC 117121960 (target dchi2 +0.0; no-dip dchi2 +5006.7 for the target)
+S44: 23 transits, PSF sigma 0.64 px; best source TIC 117121960 (target dchi2 +0.0; no-dip dchi2 +1917.4 for the target)
+S72: 23 transits, PSF sigma 0.81 px; best source TIC 117121960 (target dchi2 +0.0; no-dip dchi2 +15.7 for the target)
+S71: download failed (SearchError)
+S1751: 3 transits, PSF sigma 0.71 px; best source TIC 117121960 (target dchi2 +0.0; no-dip dchi2 +1846.3 for the target)
+
+Summed over sectors, chi-square relative to the best hypothesis (lower = better):
+  TIC  117121960  T= 9.99    0.0"   dchi2 =     0.0   <- target
+  TIC  117121961  T=11.20   33.0"   dchi2 =  8631.3
+  TIC  117121959  T=11.22   95.1"   dchi2 = 10206.0
+  TIC  117121957  T=13.95   34.3"   dchi2 =  9125.9
+  TIC  117121953  T=13.97   87.8"   dchi2 = 10206.0
+  no dip anywhere                 dchi2 = 10206.0

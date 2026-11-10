@@ -1,0 +1,28 @@
+ephemeris (search): P 41.167668 T0 1330.99862 T14 12.00 h
+TIC 220401419: T = 10.94; 11 neighbours within 2.5' brighter than T = 16.4
+  TIC 220401419: sectors left out by the cap (10 of 44 kept): S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S11, S12, S13, S27, S28, S29, S30, S31, S32, S33, S34, S35, S36, S37, S38, S39, S61, S62, S63, S64, S65, S68, S88, S97
+S66: download failed (SearchError)
+S67: 1 transits, PSF sigma 0.73 px; best source TIC 220401419 (target dchi2 +0.0; no-dip dchi2 +1840.1 for the target)
+S69: no transit covered; skipped
+S87: 1 transits, PSF sigma 0.75 px; best source TIC 220401419 (target dchi2 +0.0; no-dip dchi2 +102.2 for the target)
+S93: 1 transits, PSF sigma 0.70 px; best source TIC 220401419 (target dchi2 +0.0; no-dip dchi2 +3.4 for the target)
+S95: download failed (SearchError)
+S96: 1 transits, PSF sigma 0.71 px; best source TIC 220401414 (target dchi2 +24.2; no-dip dchi2 +0.0 for the target)
+S89: 1 transits, PSF sigma 0.78 px; best source TIC 220401419 (target dchi2 +0.0; no-dip dchi2 +509.4 for the target)
+S90: 1 transits, PSF sigma 0.72 px; best source TIC 220401419 (target dchi2 +0.0; no-dip dchi2 +2633.9 for the target)
+S98: 1 transits, PSF sigma 0.72 px; best source TIC 220401419 (target dchi2 +0.0; no-dip dchi2 +7.8 for the target)
+
+Summed over sectors, chi-square relative to the best hypothesis (lower = better):
+  TIC  220401419  T=10.94    0.0"   dchi2 =     0.0   <- target
+  TIC  220401413  T=14.20  148.1"   dchi2 =  5085.0
+  TIC  220401414  T=14.73  120.5"   dchi2 =  5072.6
+  TIC  220401672  T=15.14   53.8"   dchi2 =  4770.5
+  TIC  220401427  T=15.18  117.9"   dchi2 =  5089.4
+  TIC  220401421  T=15.37   94.2"   dchi2 =  5081.4
+  TIC  220401673  T=15.40  120.1"   dchi2 =  5084.9
+  TIC  220401670  T=15.55  124.6"   dchi2 =  5083.1
+  TIC  220401676  T=15.67   91.7"   dchi2 =  5085.8
+  TIC  220401681  T=15.92   32.5"   dchi2 =  4795.8
+  TIC  220401428  T=16.27  149.4"   dchi2 =  5085.8
+  TIC  220401675  T=16.27   54.5"   dchi2 =  4826.0
+  no dip anywhere                 dchi2 =  5096.8

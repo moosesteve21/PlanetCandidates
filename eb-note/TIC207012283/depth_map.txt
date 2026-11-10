@@ -1,0 +1,106 @@
+ephemeris (search): P 5.872514 T0 1474.31646 T14 1.50 h
+TIC 207012283: T = 12.95; 91 neighbours within 2.5' brighter than T = 18.4
+S6: 4 transits, PSF sigma 0.58 px; best source TIC 207012283 (target dchi2 +0.0; no-dip dchi2 +942.7 for the target)
+S33: 4 transits, PSF sigma 0.60 px; best source TIC 207012283 (target dchi2 +0.0; no-dip dchi2 +1269.7 for the target)
+S45: 4 transits, PSF sigma 0.66 px; best source TIC 207012283 (target dchi2 +0.0; no-dip dchi2 +746.5 for the target)
+S43: 4 transits, PSF sigma 0.64 px; best source TIC 207012299 (target dchi2 +2.4; no-dip dchi2 +0.0 for the target)
+S44: 3 transits, PSF sigma 2.08 px; best source TIC 438420430 (target dchi2 +4.6; no-dip dchi2 +0.1 for the target)
+S72: 4 transits, PSF sigma 0.69 px; best source TIC 207012283 (target dchi2 +0.0; no-dip dchi2 +1930.3 for the target)
+S71: 4 transits, PSF sigma 0.69 px; best source TIC 207012283 (target dchi2 +0.0; no-dip dchi2 +0.8 for the target)
+S87: 3 transits, PSF sigma 0.64 px; best source TIC 207012283 (target dchi2 +0.0; no-dip dchi2 +2419.8 for the target)
+S1751: no transit covered; skipped
+
+Summed over sectors, chi-square relative to the best hypothesis (lower = better):
+  TIC  207012269  T=12.95  121.5"   dchi2 =  7310.0
+  TIC  207012283  T=12.95    0.0"   dchi2 =     0.0   <- target
+  TIC  438420432  T=13.08   96.9"   dchi2 =  7306.1
+  TIC  207012235  T=13.10  110.3"   dchi2 =  7307.7
+  TIC  207012239  T=13.39  127.2"   dchi2 =  7310.0
+  TIC  207012263  T=13.75   80.1"   dchi2 =  7310.0
+  TIC  207012254  T=14.87  103.7"   dchi2 =  7310.0
+  TIC  207012223  T=14.91  145.0"   dchi2 =  7307.9
+  TIC  207012226  T=15.00  115.2"   dchi2 =  7307.1
+  TIC  207012272  T=15.13  144.9"   dchi2 =  7310.0
+  TIC  207012282  T=15.15   77.6"   dchi2 =  7307.8
+  TIC  207012250  T=15.32  109.1"   dchi2 =  7304.1
+  TIC  207012219  T=15.43  146.8"   dchi2 =  7307.1
+  TIC 10001359123  T=15.61  117.8"   dchi2 =  7307.0
+  TIC  715367781  T=15.71  126.6"   dchi2 =  7310.0
+  TIC  207012310  T=15.72  143.6"   dchi2 =  7310.0
+  TIC  207012326  T=15.73  132.7"   dchi2 =  7310.0
+  TIC  207012311  T=15.73   71.9"   dchi2 =  7310.0
+  TIC  207012291  T=15.81   25.1"   dchi2 =  6158.0
+  TIC  207012224  T=15.85  123.2"   dchi2 =  7307.6
+  TIC  207012324  T=15.95  109.3"   dchi2 =  7310.0
+  TIC  207012294  T=15.98  134.9"   dchi2 =  7310.0
+  TIC  438420428  T=16.00  106.5"   dchi2 =  7306.2
+  TIC  438420430  T=16.14   76.8"   dchi2 =  7305.1
+  TIC  438420407  T=16.15  146.2"   dchi2 =  7308.0
+  TIC  207012305  T=16.21   54.4"   dchi2 =  7307.0
+  TIC  207012295  T=16.29   55.7"   dchi2 =  7305.2
+  TIC  207012289  T=16.55   99.8"   dchi2 =  7310.0
+  TIC  207012256  T=16.55  122.1"   dchi2 =  7310.0
+  TIC  207012255  T=16.61  120.3"   dchi2 =  7310.0
+  TIC  207012296  T=16.68   91.2"   dchi2 =  7310.0
+  TIC  207012220  T=16.69  139.2"   dchi2 =  7307.6
+  TIC  207012281  T=16.70   21.5"   dchi2 =  5704.5
+  TIC  207012325  T=16.74  139.6"   dchi2 =  7310.0
+  TIC  207012276  T=16.82   89.4"   dchi2 =  7310.0
+  TIC  207012297  T=16.89  118.0"   dchi2 =  7310.0
+  TIC  207012274  T=16.95   13.2"   dchi2 =  3181.4
+  TIC  207012309  T=16.97   83.1"   dchi2 =  7310.0
+  TIC  207012264  T=17.07  147.9"   dchi2 =  7310.0
+  TIC  207012275  T=17.08  136.7"   dchi2 =  7310.0
+  TIC  438420431  T=17.19  118.1"   dchi2 =  7307.0
+  TIC  207012241  T=17.19  106.4"   dchi2 =  7310.0
+  TIC  207012278  T=17.23  136.4"   dchi2 =  7310.0
+  TIC  207012246  T=17.25  131.9"   dchi2 =  7310.0
+  TIC  207012267  T=17.26  104.9"   dchi2 =  7308.2
+  TIC  207012244  T=17.28  120.7"   dchi2 =  7310.0
+  TIC  715367643  T=17.31  147.8"   dchi2 =  7307.9
+  TIC  207012280  T=17.34   25.9"   dchi2 =  6354.9
+  TIC  207012271  T=17.41   41.7"   dchi2 =  7237.1
+  TIC  207012270  T=17.41   85.2"   dchi2 =  7310.0
+  TIC  207012292  T=17.42  133.9"   dchi2 =  7310.0
+  TIC  207012293  T=17.43  117.0"   dchi2 =  7307.2
+  TIC  207012240  T=17.45  102.8"   dchi2 =  7309.7
+  TIC  438420405  T=17.57  126.7"   dchi2 =  7309.9
+  TIC  207012248  T=17.58  124.3"   dchi2 =  7305.5
+  TIC  438420402  T=17.61  148.3"   dchi2 =  7309.5
+  TIC  207012313  T=17.62   73.5"   dchi2 =  7310.0
+  TIC  207012232  T=17.66  108.0"   dchi2 =  7307.0
+  TIC  207012237  T=17.66  123.1"   dchi2 =  7305.5
+  TIC  438420417  T=17.68   83.6"   dchi2 =  7309.6
+  TIC  207012321  T=17.71  113.5"   dchi2 =  7310.0
+  TIC  438420421  T=17.73   77.4"   dchi2 =  7308.3
+  TIC  207012302  T=17.73  109.3"   dchi2 =  7310.0
+  TIC  207012307  T=17.87  116.5"   dchi2 =  7310.0
+  TIC  207012277  T=17.88   22.1"   dchi2 =  5710.0
+  TIC  438420411  T=17.89  122.6"   dchi2 =  7308.3
+  TIC  207012317  T=17.89  107.7"   dchi2 =  7310.0
+  TIC  207012279  T=17.90   48.8"   dchi2 =  7285.7
+  TIC  438420433  T=17.92  133.6"   dchi2 =  7308.3
+  TIC  438420440  T=17.94   52.5"   dchi2 =  7303.5
+  TIC  715367679  T=17.99  109.5"   dchi2 =  7304.1
+  TIC  438420414  T=18.01  100.6"   dchi2 =  7309.3
+  TIC  207012301  T=18.01   55.8"   dchi2 =  7306.5
+  TIC  207012252  T=18.02   78.7"   dchi2 =  7310.0
+  TIC  207012299  T=18.03   48.2"   dchi2 =  7295.2
+  TIC  207012266  T=18.07   82.7"   dchi2 =  7310.0
+  TIC  207012286  T=18.07   76.4"   dchi2 =  7306.9
+  TIC  207012260  T=18.11   50.1"   dchi2 =  7300.2
+  TIC  715367819  T=18.14   89.3"   dchi2 =  7310.0
+  TIC  715368062  T=18.14  129.8"   dchi2 =  7309.1
+  TIC  438420426  T=18.18   74.7"   dchi2 =  7304.6
+  TIC  207012234  T=18.18  121.5"   dchi2 =  7306.3
+  TIC  715367837  T=18.22  146.6"   dchi2 =  7310.0
+  TIC  438420435  T=18.26  118.5"   dchi2 =  7308.3
+  TIC  715367806  T=18.28   17.1"   dchi2 =  4422.7
+  TIC  438420425  T=18.30   42.9"   dchi2 =  7268.8
+  TIC  715368040  T=18.32   91.2"   dchi2 =  7305.5
+  TIC  715368050  T=18.33  137.4"   dchi2 =  7307.2
+  TIC  715367817  T=18.33   81.3"   dchi2 =  7310.0
+  TIC  715367798  T=18.33  135.3"   dchi2 =  7310.0
+  TIC  438420422  T=18.35   56.9"   dchi2 =  7308.8
+  TIC  207012258  T=18.39   46.8"   dchi2 =  7267.2
+  no dip anywhere                 dchi2 =  7310.0

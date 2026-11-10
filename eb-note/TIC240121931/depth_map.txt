@@ -1,0 +1,41 @@
+ephemeris (search): P 5.190334 T0 1847.94556 T14 5.54 h
+TIC 240121930: T = 10.98; 26 neighbours within 2.5' brighter than T = 16.5
+S20: 4 transits, PSF sigma 0.73 px; best source TIC 240121931 (target dchi2 +72.3; no-dip dchi2 +186.8 for the target)
+S45: 4 transits, PSF sigma 0.77 px; best source TIC 240121931 (target dchi2 +129.4; no-dip dchi2 +224.9 for the target)
+S43: 4 transits, PSF sigma 0.77 px; best source TIC 240121931 (target dchi2 +476.4; no-dip dchi2 +1202.7 for the target)
+S44: 4 transits, PSF sigma 0.71 px; best source TIC 240121931 (target dchi2 +395.1; no-dip dchi2 +601.9 for the target)
+S60: 3 transits, PSF sigma 0.74 px; best source TIC 240121931 (target dchi2 +199.1; no-dip dchi2 +581.2 for the target)
+S72: 3 transits, PSF sigma 0.72 px; best source TIC 240121931 (target dchi2 +332.8; no-dip dchi2 +1243.7 for the target)
+S73: 4 transits, PSF sigma 0.80 px; best source TIC 240121931 (target dchi2 +3.3; no-dip dchi2 +71.8 for the target)
+S71: 4 transits, PSF sigma 0.76 px; best source TIC 240121931 (target dchi2 +0.0; no-dip dchi2 +0.0 for the target)
+S1751: no transit covered; skipped
+
+Summed over sectors, chi-square relative to the best hypothesis (lower = better):
+  TIC  240121930  T=10.98    0.0"   dchi2 =  1608.2   <- target
+  TIC  240121901  T=11.68  122.0"   dchi2 =  5721.2
+  TIC  240121928  T=12.63  149.8"   dchi2 =  5721.2
+  TIC  240121938  T=13.44   96.5"   dchi2 =  5721.2
+  TIC  240121900  T=13.49  120.1"   dchi2 =  5721.2
+  TIC  240121912  T=14.02  142.5"   dchi2 =  5721.2
+  TIC  240121923  T=14.11   90.3"   dchi2 =  5721.2
+  TIC  240121929  T=14.26   22.6"   dchi2 =  5049.7
+  TIC  240121917  T=14.29   59.6"   dchi2 =  5721.2
+  TIC  240121931  T=14.78    9.6"   dchi2 =     0.0
+  TIC  240121942  T=15.05   92.1"   dchi2 =  5721.2
+  TIC  240121950  T=15.19  111.3"   dchi2 =  5721.2
+  TIC  240121913  T=15.32  106.3"   dchi2 =  5721.2
+  TIC  240121936  T=15.37   69.2"   dchi2 =  5721.2
+  TIC  240121902  T=15.48  137.0"   dchi2 =  5721.2
+  TIC  240121963  T=15.51  142.2"   dchi2 =  5721.2
+  TIC  240121889  T=15.59  145.6"   dchi2 =  5721.2
+  TIC  240121960  T=15.64  132.2"   dchi2 =  5721.2
+  TIC  240121959  T=15.81  124.6"   dchi2 =  5720.9
+  TIC  741814417  T=16.15  133.0"   dchi2 =  5721.2
+  TIC  240121916  T=16.23   93.8"   dchi2 =  5721.2
+  TIC  240121908  T=16.27  137.0"   dchi2 =  5721.2
+  TIC  240121892  T=16.30  133.3"   dchi2 =  5721.2
+  TIC  240121962  T=16.31  132.5"   dchi2 =  5721.2
+  TIC  240121947  T=16.41  121.2"   dchi2 =  5721.1
+  TIC  240121932  T=16.47   88.0"   dchi2 =  5721.2
+  TIC  240121888  T=16.48  145.4"   dchi2 =  5721.2
+  no dip anywhere                 dchi2 =  5721.2
