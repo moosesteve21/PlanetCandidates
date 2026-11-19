@@ -11,7 +11,7 @@
 | SPOC | TCEs in S105, S106 and S107 (1.7302–1.7304 d, 5,000–5,400 ppm, R ~15 R⊕); no TOI or CTOI |
 | Odd vs even (local linear baseline per transit) | odd 4,351 ± 53 ppm, even 4,943 ± 74 ppm: **6.5σ** different, and even is deeper in S106, S107 and S108 separately (`per_transit.txt`) |
 | Phase 0.5 at P | flat (−52 ± 28 ppm) |
-| Depth map (each star's predicted image fitted to the in-transit deficit, `depth_map.png`) | best source **TIC 88481083** (T = 12.72, 20.7″ away); the target is worse by Δχ² = 1,507, and each of S105, S106 and S108 prefers the neighbour on its own |
+| Depth map (each star's predicted image fitted to the in-transit deficit, `depth_map.png`) | best source **TIC 88481083** (T = 12.72, 20.7″ away); the target is worse by Δχ² = 1,507, and each of S105–S108 prefers the neighbour on its own (S97 FFIs too noisy to tell) |
 | TIC 88481083 | Gaia DR3 5073603089619768704: same parallax (4.165 vs 4.197 mas) and proper motion as the target, so a bound companion ~5,000 au out. Gaia classes it **RS CVn** (VSX: RS, no period); Gaia RV error 5.8 km/s (target 0.35) |
 | Depth needed on the neighbour | it gives ~8% of the combined T-band light, so the 4,350/4,940 ppm dips are ~5.3% and ~6.0% eclipses on it |
 
