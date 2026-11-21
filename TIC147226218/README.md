@@ -3,6 +3,29 @@
 A ~1.7 R⊕ transit candidate on an early K dwarf with a 3.87-day period, found in an
 independent BLS search of TESS light curves.
 
+## Status update (2026-11-21, current pipeline)
+
+The search code has improved a lot since these candidates were first posted in October 2026. On 2026-11-21 we re-ran the star through the current version of KESTREL (the development version; it reaches the public KESTREL repository in the next code update), from the blind search through every vetting step. The original October record below is unchanged.
+
+Our two criteria for calling a signal a candidate (from our methods paper, in preparation):
+- **A:** the transit fit agrees with the star's density, the per-pixel depth map puts the dip on the target, and the dip appears in TARS light curves (an independent reduction) at ≥ 3σ against random phases.
+- **B:** A, plus a TRICERATOPS false-positive probability (FPP) below 0.5 and a nearby-star FPP (NFPP) below 0.001.
+
+| Check | Result (2026-11-21) |
+|---|---|
+| Blind search | Top signal again: P = 3.871562 d, 540 ppm, SNR 14.1, SDE 34.4, 19 transits in 4 sectors, odd/even 1.4σ |
+| Transit fit | Consistent with the star: density 1.8 vs 3.7 g/cm³ (+1.7σ); Rp ≈ 1.7 R⊕ |
+| Depth map | **Not detected:** no star in the field, the target included, fits clearly better than no dip (Δχ² 14.3) |
+| Pixel centroid | Dimming centre 79″ from the target, flagged off-target |
+| Neighbour | TIC 147226209 varies with an 11.7067 d period, three times the signal's period, and dims by 419 ± 198 ppm at the dip times (2.1σ) |
+| Other reductions | QLP (two versions) and TESS-SPOC all show the dip |
+| TARS | 590 ± 92 ppm over 12 transits; 6.0σ against random phases |
+| TRICERATOPS | FPP 0.22 ± 0.01, **NFPP 0.14 ± 0.01** (1,366 field stars): "likely nearby false positive" |
+
+**Verdict: fails criterion A. We no longer consider this a planet candidate on TIC 147226218.** The dip is real (it is in every reduction, including TARS), but the pixel data don't place it on the target, and the most likely source is a nearby star. This is consistent with the correction we posted on 2026-10-14, when our first pixel map was found to favour the target only weakly.
+
+New figures: `2026-11-21_search_P3.8716.png` (periodogram, fold, odd/even), `2026-11-21_depth_map.png`.
+
 ## Discovery
 
 | | |

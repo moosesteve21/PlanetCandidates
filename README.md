@@ -18,9 +18,9 @@ planets and weren't, with annotated examples from the search (a request for comm
 
 | Candidate | Found | Summary | Status |
 |---|---|---|---|
-| [TIC 147226218](TIC147226218/) (CD−43 9842) | 2026-10-13, batch b018 | P = 3.872 d, ~530 ppm, ~1.7 R⊕, K dwarf; TARS 5.9σ; pixel map favours the target (Δχ² ≈ 8–12); FPP 0.16 | [Posted to Planet Hunters TESS](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/2110/4155277) |
-| [TIC 240488148](TIC240488148/) (TYC 3191-503-1) | 2026-10-12, batch b012 | P = 1.513 d, ~390 ppm, ~1.45 R⊕, K dwarf; TARS 9.2σ; on target by pixel map; FPP 0.11 | [Posted to Planet Hunters TESS](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/2110/4154549) |
-| [TIC 302453503](TIC302453503/) (L 642-3) | 2026-10-12, batch b007 | P = 3.629 d, ~440 ppm, ~1.2 R⊕, M1.5 dwarf; TRICERATOPS FPP 0.04–0.06 | Posted to Planet Hunters TESS |
+| [TIC 147226218](TIC147226218/) (CD−43 9842) | 2026-10-13, batch b018 | P = 3.872 d, ~530 ppm, ~1.7 R⊕, K dwarf. **2026-11-21 (current pipeline): fails criterion A**: depth map not detected, NFPP 0.14, likely a nearby star; no longer a candidate on this star | [Posted to Planet Hunters TESS](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/2110/4155277) |
+| [TIC 240488148](TIC240488148/) (TYC 3191-503-1) | 2026-10-12, batch b012 | P = 1.513 d, ~390 ppm, ~1.45 R⊕, K dwarf. **2026-11-21 (current pipeline): meets A, fails B** (NFPP 0.010); a second, weaker signal at 3.600 d also meets A, fails B | [Posted to Planet Hunters TESS](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/2110/4154549) |
+| [TIC 302453503](TIC302453503/) (L 642-3) | 2026-10-12, batch b007 | P = 3.629 d, ~440 ppm, ~1.2 R⊕, M1.5 dwarf. **2026-11-21 (current pipeline): meets A and B** (depth map on target, TARS 3.1σ, FPP 0.054, NFPP 0.0005) | Posted to Planet Hunters TESS |
 
 ## Checks of community reports
 

@@ -2,6 +2,28 @@
 
 A ~1.2 R⊕ transit candidate on an M1.5 dwarf, found in an independent BLS search of TESS light curves.
 
+## Status update (2026-11-21, current pipeline)
+
+The search code has improved a lot since these candidates were first posted in October 2026. On 2026-11-21 we re-ran the star through the current version of KESTREL (the development version; it reaches the public KESTREL repository in the next code update), from the blind search through every vetting step. The original October record below is unchanged.
+
+Our two criteria for calling a signal a candidate (from our methods paper, in preparation):
+- **A:** the transit fit agrees with the star's density, the per-pixel depth map puts the dip on the target, and the dip appears in TARS light curves (an independent reduction) at ≥ 3σ against random phases.
+- **B:** A, plus a TRICERATOPS false-positive probability (FPP) below 0.5 and a nearby-star FPP (NFPP) below 0.001.
+
+| Check | Result (2026-11-21) |
+|---|---|
+| Blind search | Top signal again: P = 3.62916 d, 462 ppm, SNR 10.0, SDE 14.1, 27 transits in 5 sectors, odd/even 0.2σ |
+| Transit fit | Consistent with the star: density 6.4 vs 5.5 g/cm³ (−0.2σ); b = 0.48, T14 1.5 h, Rp ≈ 1.1 R⊕ |
+| Depth map | On target, Δχ² 24.5 over every neighbour and no dip |
+| Other reductions | QLP, TESS-SPOC and SPOC fluxes all support it (5 of 5) |
+| TARS | 521 ± 132 ppm over 22 transits; 3.1σ against random phases |
+| TRICERATOPS | FPP 0.054 ± 0.001, NFPP 0.0005 (10 runs of 10⁶ draws, 80 field stars) |
+| Pixel centroid | Too shallow for single sectors: no sector shows the dip in the target's own pixel |
+
+**Verdict: meets criteria A and B.** Still a candidate, not a validated planet: TRICERATOPS can't rule out an unresolved companion without high-resolution imaging.
+
+New figures: `2026-11-21_search_P3.6292.png` (periodogram, fold, odd/even), `2026-11-21_depth_map.png` (the first depth map for this star).
+
 ## Discovery
 
 | | |
