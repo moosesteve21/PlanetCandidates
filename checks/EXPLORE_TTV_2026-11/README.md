@@ -61,3 +61,40 @@ straight-line ephemeris to the per-sector times. "Report" is the amplitude given
     TTV.
 - **Not done here:** per-sector centroids or depth maps for the late sectors, odd/even checks per group, and the
   S48 dip.
+
+---
+
+## Extended report (25 November 2026): the observable deep targets
+
+**Checked 2026-11-25.** The second version of the report adds the targets observable from the north (Dec > +5°)
+and south (Dec < −5°) with transits at least 4 ppt deep (its Tables 2a and 3a). All 15 not checked above were
+re-measured the same way, with ExoFOP ephemerides downloaded on 2026-11-25. Results are in [`extended/`](extended/).
+
+**Keeping only the TOI's own transits** ([`ttv_robust.py`](ttv_robust.py)). The whole-orbit scan takes the strongest
+dip in each window. In a multi-planet system, or where systematics are strong, a window that holds no transit of
+this planet locks onto another dip, hundreds of hours from the prediction. So a transit is kept only if its depth
+is 0.5-2 times the ExoFOP depth and it lies within 24 h of the prediction, wider than every published TTV here except
+TOI-4504's. For TOI-4504 and TOI-2525.01 the 24 h limit is replaced by removing single outliers (see the note in the
+table). A straight-line ephemeris is then refitted, and **A** is half the peak-to-peak range of the per-sector mean O−C.
+
+| TOI | Status | A here | A in report | Notes |
+|---|---|---|---|---|
+| 216.01 | published | 7.6 h | 7.2 h | Smooth swing from −8 to +7 h across 25 sectors |
+| 4504.01 | published | 53 h | 51.5 h | No 24 h limit; 12 sectors |
+| 2525.01 | published | 8.4 h | 7.0 h | Most windows lock onto the deeper .02, so depth filter plus outlier removal, no 24 h limit; 24 transits |
+| 2525.02 | published | 1.3 h | 73 min | |
+| 2202.01 | published | 1.5 h | 99 min | |
+| 4562.01 | published | 34 min | 42 min | 6 transits |
+| 7510.02 | confirmed | 38 min | 86 min | Only 3 sectors left after removing the other planets' dips |
+| 3958.01 | candidate | 9.6 h | 9.4 h | Consecutive sectors agree within 1 h, and four groups move between −7.5 and +11.5 h: a real timing signal in the light curves ([plot](extended/TOI3958.01_robust_oc.png)) |
+| 2361.01 | candidate | – | 5.5 h | **Period:** the transits fit P = 8.733152 d (rms 1.2 h), not ExoFOP's 8.71546 d or the report's 8.842 d; no clear TTV at that period ([details](extended/TOI2361_period.md)) |
+| 6293.01 | candidate | 22 min | 2.4 h | Only 3 sectors kept; both S85 transits sit 11 h late against ExoFOP's ephemeris, which a 3-sector refit absorbs, so not settled |
+| 3850.01 | candidate | 53 min | 53 min | |
+| 7125.01 | candidate | 1.1 h | 62 min | 4 transits, all QLP |
+| 7026.01 | candidate | 38 min | 42 min | |
+| 4053.01 | FP (NEB) | 37 min | 67 min | |
+| 590.01 | EB | 11 min | 38 min | 3 sectors |
+
+**In short:** the published amplitudes are reproduced, which supports both the screening and this check. Among the
+unpublished targets, TOI-3958.01's ~±10 h signal is clearly in the light curves. TOI-2361.01's "TTV" is a period
+error. TOI-6293.01 needs more sectors.
