@@ -98,3 +98,40 @@ table). A straight-line ephemeris is then refitted, and **A** is half the peak-t
 **In short:** the published amplitudes are reproduced, which supports both the screening and this check. Among the
 unpublished targets, TOI-3958.01's ~±10 h signal is clearly in the light curves. TOI-2361.01's "TTV" is a period
 error. TOI-6293.01 needs more sectors.
+
+### TOI-3958.01: a preliminary TTV-cycle model (added 2026-11-25)
+
+Siegfried asked whether a preliminary model of the TTV cycle could be fitted. [`ttv_sine.py`](ttv_sine.py) fits a
+linear ephemeris plus one sinusoid to the 10 kept transit times (sectors 17, 18, 24, 57, 58, 77 and 78, spanning
+1,670 d), scanning the super-period from 60 to 3,000 d. The timing errors are scaled by ×1.97, so the best fit has a
+reduced χ² of 1.
+
+| | |
+|---|---|
+| Best super-period | 1,322 d (3.6 yr); accepted range 1,281–1,391 d (scaled Δχ² < 4) |
+| TTV amplitude | ±11.2 h (11.1–11.2 h over the accepted range) |
+| Mean period, T0 | 12.006054 d, 2864.52994 BTJD |
+| χ² | 23.3 for 6 dof, against 104,607 for a straight line (8 dof) |
+| Shorter super-periods | none fits anywhere in 60–1,200 d |
+
+![TOI-3958.01 sinusoid model](extended/TOI3958.01_sine_fit.png)
+
+**Predicted transits in 2027** ([all 30](extended/TOI3958.01_sine_predictions.csv)). Over the year the model moves
+from 7 h early to 9 h late against the mean ephemeris. A sample (BTJD = BJD_TDB − 2457000):
+
+| Epoch | Linear ephemeris (BTJD) | Model (BTJD) | Model − linear | Date (UTC) | 2σ window |
+|---|---|---|---|---|---|
+| 129 | 4413.311 | 4413.005 | −7.3 h | 2027-01-07 12:07 | 5.1 h |
+| 134 | 4473.341 | 4473.147 | −4.7 h | 2027-03-08 15:31 | 5.3 h |
+| 139 | 4533.372 | 4533.304 | −1.6 h | 2027-05-07 19:17 | 5.1 h |
+| 144 | 4593.402 | 4593.468 | +1.6 h | 2027-07-06 23:13 | 4.9 h |
+| 149 | 4653.432 | 4653.625 | +4.6 h | 2027-09-05 03:00 | 4.0 h |
+| 154 | 4713.462 | 4713.767 | +7.3 h | 2027-11-04 06:24 | 2.4 h |
+
+**Caveats.** The data cover about 1.3 cycles in four groups of sectors, and a single sinusoid is the simplest shape a
+TTV can take. The windows hold only if that shape is right, so they are a lower limit on the true uncertainty.
+Anyone observing should allow several hours either side. Even one well-timed transit in 2027 would test the model
+strongly, because it would land where the curve is steepest.
+
+Run: `python ttv_sine.py extended/TOI3958.01_transits.csv 5497` (5497 ppm is the reference depth used by
+`ttv_robust.py`).
