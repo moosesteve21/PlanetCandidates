@@ -1,0 +1,77 @@
+{
+ "ephemeris": {
+  "P": 2.929343,
+  "T0_btjd": 2984.7636000001803,
+  "T14_h": 3.3
+ },
+ "neighbour_lcs": [
+  {
+   "author": "TGLC cal_aper_flux",
+   "sector": 8,
+   "n_points": 709,
+   "n_clipped": 129,
+   "n_transits": 5,
+   "n_in_transit": 26,
+   "depth": 0.0028519961326129994,
+   "err": 0.005528346769072517,
+   "random_phase_sd": 0.00579872444482933,
+   "robust_rms": 0.020490830357077126,
+   "sigma_below_needed": 3.8253757860661426
+  }
+ ],
+ "depth_map_sectors": [
+  {
+   "sector": 8,
+   "n_transits": 6,
+   "best": "143901397",
+   "target_minus_best": 0.0,
+   "target_vs_nodip": 5.297545348528246,
+   "neighbour_minus_target": 3.4722446627606445
+  },
+  {
+   "sector": 7,
+   "n_transits": 8,
+   "best": "143901368",
+   "target_minus_best": 0.3515991659859523,
+   "target_vs_nodip": 1.4769530782528264,
+   "neighbour_minus_target": -0.3515991659859523
+  },
+  {
+   "sector": 34,
+   "n_transits": 9,
+   "best": "143901368",
+   "target_minus_best": 3.698668875723454e-05,
+   "target_vs_nodip": -2.7755575615628914e-17,
+   "neighbour_minus_target": -3.698668875723454e-05
+  },
+  {
+   "sector": 61,
+   "n_transits": 9,
+   "best": "143901397",
+   "target_minus_best": 0.0,
+   "target_vs_nodip": 0.8336533474588577,
+   "neighbour_minus_target": 0.8336429284316313
+  },
+  {
+   "sector": 88,
+   "n_transits": 10,
+   "best": "143901397",
+   "target_minus_best": 0.0,
+   "target_vs_nodip": 1.411112047702101,
+   "neighbour_minus_target": 1.4111120477021046
+  },
+  {
+   "sector": 110,
+   "n_transits": 4,
+   "best": "143901443",
+   "target_minus_best": 0.29729104572193066,
+   "target_vs_nodip": 0.0,
+   "neighbour_minus_target": 0.0
+  }
+ ],
+ "depth_map_sum": {
+  "target_vs_nodip": 9.019263821942047,
+  "neighbour_minus_target": 5.365363486219678,
+  "best": "143901397"
+ }
+}
