@@ -25,16 +25,22 @@ question is the neighbour TIC 143901368 (58.6″, G = 14.0, Gaia RUWE 17), which
 - **Method:** for each sector, every star within 2.5′ and up to 5.5 mag fainter than the target is tried as the
   source of the in-transit flux deficit in the TESScut FFI cutout, with the neighbour always included. χ² is
   summed over sectors.
-- **Sectors:** S7, S8, S34, S61, S88 and S110 (46 predicted transits). S7 has FFI data but no pipeline light curve.
-- **Result:** the target is the best source overall, but the dip is barely located at this depth. The target
-  beats "no dip anywhere" by Δχ² 9.0 and the neighbour by 5.4. Per sector the preference is weak either way
-  (S8 favours the target by 3.5; S7 and S34 are even).
+- **Sectors:** S8, S34, S61, S88 and S110 (38 predicted transits). TESScut also lists S7, but there the star falls
+  outside the science pixels (the cutout is all zeros), so S7 holds no data; see the correction below.
+- **Result:** the target is the best source overall, but the dip is barely located at this depth. Without S7 the
+  target beats "no dip anywhere" by Δχ² 7.5 and the neighbour by 5.7. Per sector the preference is weak either way
+  (S8 favours the target by 3.5; S34 is even).
 - So the FFI depth map **leans to the target but does not settle it** on its own.
 
 ## Summary
 
 The neighbour's own photometry is the stronger test: it does not dim by the 2.4% a source there would need. Both
 checks point the same way as the pixel-response fits posted by DagfinnExolab on the thread (2026-11-24).
+
+**Correction (2026-11-25):** the first version of this page and our Talk reply said TESS also observed the star in
+Sector 7. It didn't, usefully: the S7 cutout lies in the detector's non-science columns and reads zero, as
+DagfinnExolab noted. The depth map's S7 term (Δχ² ±0.35, also counted in `result.json`) was noise, and the sums
+above leave it out.
 
 **Not done here:** high-resolution imaging, a deeper look at the neighbour in ZTF, the 13.85 d and 19.94 d
 residual signals.
