@@ -49,3 +49,17 @@ by about 2 h, well inside their ±4 h spread. S96 stays out (its mid-time is in 
 
 ![O-C with 21 transits](oc21.png)
 ![S30 per-pixel depth](s30_pixels.png)
+
+## Update 2026-11-26: S96 and S97
+
+Re-measured as for S30 and S68 (`recheck9697.py`, scan ±0.6 d around the cubic), with the QLP light curves plotted
+around the predictions (`plot9697.py`). The crosses for S96 and S97 on the first O−C plot are excluded measurements, not
+transit times.
+
+- **S96:** a dip is there, but a short data gap falls inside it and the baseline steps up by about 0.3% straight after,
+  which is more than the transit depth (about 0.2%). The fitted time (213 min before the cubic) depends on how that step is
+  treated, so S96 stays out.
+- **S97:** the window sits on a scattered-light swing of about 6% in QLP. The best fit there is a brightening, not a
+  dip, so S97 gives no usable time.
+
+![S96 and S97 around the predictions](s96_97.png)
