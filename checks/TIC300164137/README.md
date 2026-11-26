@@ -11,7 +11,7 @@ scaled by the reduced χ² when above 1. The best light curve per sector (SPOC, 
 | Result | |
 |---|---|
 | Transits timed | 19, S1 to S98 (2,682 d); errors 4–29 min. **21 with S30 and S68 since 2026-11-26** (below) |
-| Left out | S96 (a gap and a baseline step in the transit; see the S96 and S97 update) and S97 (systematics: reduced χ² 32). S30 and S68 were left out on 2026-11-19 by mistake (corrected below) |
+| Left out | S96 (a 5 h gap and a baseline step in the transit; see the S96 and S97 update) and S97 (systematics: reduced χ² 32). S30 and S68 were left out on 2026-11-19 by mistake (corrected below) |
 | O−C against P = 49.66 d | smooth arch, −750 min (S1) → +440 min (S28–S66) → −590 min (S98): ~20 h peak to peak (figure) |
 | Constant period | ruled out: χ² 82,893 for 17 dof (quadratic 708/16, cubic 40/15, rms ~13 min) |
 | TTV super-period | > ~5,000 d; less than one cycle covered |
@@ -44,6 +44,13 @@ concentrated on the target: 1,913 ppm (5.4σ) in its brightest pixel and 2,692 p
 background pixels stay flat (−0.01 ± 0.17 e/s). S30 is a transit on the target at the usual depth; the deeper QLP value
 comes from the scattered light.
 
+*Correction (later on 2026-11-26, `s30_holdout.py`):* the background-pixel figure above was not an independent test,
+because those are the pixels the background plane was fitted to. Held-out tests: with the plane fitted to half of the sky
+pixels (a checkerboard), the other half shows −0.03 ± 0.03 and +0.02 ± 0.03 e/s per pixel (both ways round), and pixels of
+middling brightness that were not in the fit show +0.03 ± 0.02 e/s, against 1.7 e/s lost in the target pixel. The 3×3
+depth is 2,500–2,900 ppm (about 11σ) for sky fractions of 20–40% and five fit windows: a little deeper than the
+~2,200 ppm average of the other transits, but well below QLP's 3,600 ppm.
+
 With 21 transits (`oc21.py`) nothing changes: the cubic gives χ² 41 for 17 dof (rms 12.1 min) and the 2027 windows move
 by about 2 h, well inside their ±4 h spread. S96 stays out (see below).
 
@@ -53,13 +60,15 @@ by about 2 h, well inside their ±4 h spread. S96 stays out (see below).
 ## Update 2026-11-26: S96 and S97
 
 Re-measured as for S30 and S68 (`recheck9697.py`, scan ±0.6 d around the cubic), with the QLP light curves plotted
-around the predictions (`plot9697.py`). The crosses for S96 and S97 on the first O−C plot are excluded measurements, not
-transit times.
+around the predictions (`plot9697.py`) and the baseline choices tested (`check_9697.py`). The crosses for S96 and S97 on
+the first O−C plot are excluded measurements, not transit times.
 
-- **S96:** a dip is there, but a short data gap falls inside it and the baseline steps up by about 0.3% straight after,
-  which is more than the transit depth (about 0.2%). The fitted time (213 min before the cubic) depends on how that step is
-  treated, so S96 stays out.
-- **S97:** the window sits on a scattered-light swing of about 6% in QLP. The best fit there is a brightening, not a
-  dip, so S97 gives no usable time.
+- **S96 (QLP only):** the dip is there, but a 5.1 h data gap covers the middle of the transit (it is not the orbit gap:
+  QLP's orbit number is the same either side), and the flux is 0.29% higher after the gap, more than the transit depth.
+  With one linear baseline the fit lands 213 min before the cubic; letting the baseline step at the gap puts it
+  27 (+6/−4) min before. The time depends on that choice, so S96 stays out of the fit, but it does not contradict the curve.
+- **S97 (QLP only):** the flux swings by about 9% around the prediction and mirrors QLP's own background estimate, which
+  changes tenfold there (correlation −0.98): scattered light. Low-order baselines find a brightening; a 5th-order one finds
+  a dip at the predicted time but twice the usual depth. No usable time.
 
 ![S96 and S97 around the predictions](s96_97.png)
