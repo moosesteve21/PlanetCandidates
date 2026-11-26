@@ -45,7 +45,7 @@ background pixels stay flat (−0.01 ± 0.17 e/s). S30 is a transit on the targe
 comes from the scattered light.
 
 With 21 transits (`oc21.py`) nothing changes: the cubic gives χ² 41 for 17 dof (rms 12.1 min) and the 2027 windows move
-by less than 2 h. S96 stays out (its mid-time is in the orbit gap).
+by about 2 h, well inside their ±4 h spread. S96 stays out (its mid-time is in the orbit gap).
 
 ![O-C with 21 transits](oc21.png)
 ![S30 per-pixel depth](s30_pixels.png)
