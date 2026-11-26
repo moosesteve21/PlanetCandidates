@@ -11,7 +11,7 @@ scaled by the reduced χ² when above 1. The best light curve per sector (SPOC, 
 | Result | |
 |---|---|
 | Transits timed | 19, S1 to S98 (2,682 d); errors 4–29 min. **21 with S30 and S68 since 2026-11-26** (below) |
-| Left out | S96 (transit in the orbit gap) and S97 (systematics: reduced χ² 32). S30 and S68 were left out on 2026-11-19 by mistake (corrected below) |
+| Left out | S96 (a gap and a baseline step in the transit; see the S96 and S97 update) and S97 (systematics: reduced χ² 32). S30 and S68 were left out on 2026-11-19 by mistake (corrected below) |
 | O−C against P = 49.66 d | smooth arch, −750 min (S1) → +440 min (S28–S66) → −590 min (S98): ~20 h peak to peak (figure) |
 | Constant period | ruled out: χ² 82,893 for 17 dof (quadratic 708/16, cubic 40/15, rms ~13 min) |
 | TTV super-period | > ~5,000 d; less than one cycle covered |
@@ -45,7 +45,7 @@ background pixels stay flat (−0.01 ± 0.17 e/s). S30 is a transit on the targe
 comes from the scattered light.
 
 With 21 transits (`oc21.py`) nothing changes: the cubic gives χ² 41 for 17 dof (rms 12.1 min) and the 2027 windows move
-by about 2 h, well inside their ±4 h spread. S96 stays out (its mid-time is in the orbit gap).
+by about 2 h, well inside their ±4 h spread. S96 stays out (see below).
 
 ![O-C with 21 transits](oc21.png)
 ![S30 per-pixel depth](s30_pixels.png)
